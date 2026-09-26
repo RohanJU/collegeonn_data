@@ -1,0 +1,121 @@
+{
+"bankura-unnayani-institute-of-engineering": {
+  "short_name": "BUIE",
+  "description": "Bankura Unnayani Institute of Engineering is an engineering college at Subhankarnagar in Bankura district, West Bengal, offering B.Tech programmes.",
+  "about": "The institute was set up in 1998 by the Bankura Unnayani society. It is approved by AICTE and affiliated to Maulana Abul Kalam Azad University of Technology, West Bengal. It has taken part in the TEQIP quality improvement programme and runs an Internal Quality Assurance Cell.",
+  "established_year": "1998",
+  "address": "PO Subhankarnagar, Dist Bankura, West Bengal 722146",
+  "pincode": "722146",
+  "affiliated_to": "Maulana Abul Kalam Azad University of Technology, West Bengal",
+  "approvals": "AICTE",
+  "official_website": "https://www.buie.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "wbjee"
+},
+"bishnupur-public-institute-of-engineering-b-tech": {
+  "short_name": "BPIE",
+  "official_website": "https://bpie.org.in/",
+  "streams": "engineering"
+},
+"mallabhum-institute-of-technology": {
+  "short_name": "MIT",
+  "official_website": "https://www.mitbishnupur.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "wbjee"
+},
+"asansol-engineering-college": {
+  "city": "Asansol",
+  "college_type": "AUTONOMOUS",
+  "short_name": "AEC",
+  "description": "Asansol Engineering College is a self-financing engineering college in Asansol, West Bengal, holding autonomous status and NAAC A accreditation.",
+  "about": "The college began functioning on 8 August 1998 at Kanyapur in Asansol. It is approved by AICTE, affiliated to Maulana Abul Kalam Azad University of Technology, and recognised by UGC under Section 2(f). Its B.Tech programmes in computer science, electronics and communication, and mechanical engineering hold NBA accreditation. The college has operated with academic autonomy since 2024.",
+  "established_year": "1998",
+  "address": "Vivekananda Sarani, Kanyapur, Asansol, West Bengal 713305",
+  "pincode": "713305",
+  "ownership": "PRIVATE",
+  "affiliated_to": "Maulana Abul Kalam Azad University of Technology, West Bengal",
+  "approvals": "AICTE, UGC, NBA",
+  "naac_grade": "A",
+  "official_website": "https://www.aecwb.edu.in/",
+  "streams": "engineering",
+  "exams_accepted": "wbjee"
+},
+"bengal-college-of-engineering-and-technology": {
+  "city": "Durgapur",
+  "short_name": "BCET",
+  "description": "Bengal College of Engineering and Technology is a private engineering and management college in Bidhan Nagar, Durgapur, run by the SKS Educational and Social Trust.",
+  "about": "BCET was founded in 2001 under the SKS Educational and Social Trust. It offers undergraduate and postgraduate programmes in engineering and management. Its programmes were first accredited by NBA in 2007, and its computer science course currently holds NBA accreditation up to 2027.",
+  "established_year": "2001",
+  "address": "Shahid Sukumar Banerjee Sarani, Bidhan Nagar, Durgapur, West Bengal 713212",
+  "pincode": "713212",
+  "approvals": "NBA",
+  "official_website": "https://bcetdgp.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "wbjee"
+},
+"camellia-institute-of-engineering-and-technology": {
+  "city": "Budbud",
+  "description": "Camellia Institute of Engineering and Technology is an engineering college on a 10 acre campus at Budbud in Purba Bardhaman district, West Bengal.",
+  "about": "The institute is part of the Camellia group of colleges. It is approved by AICTE and affiliated to Maulana Abul Kalam Azad University of Technology, West Bengal. Its campus sits on the NH-2 Budbud bypass.",
+  "address": "NH-2, Budbud Bypass (N), Burdwan, West Bengal 713403",
+  "pincode": "713403",
+  "affiliated_to": "Maulana Abul Kalam Azad University of Technology, West Bengal",
+  "approvals": "AICTE",
+  "official_website": "https://ciet.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "wbjee"
+},
+"dr-b-c-roy-engineering-college-durgapur": {
+  "city": "Durgapur",
+  "college_type": "AUTONOMOUS",
+  "short_name": "BCREC",
+  "description": "Dr. B.C. Roy Engineering College is an autonomous engineering and management institute in Durgapur, West Bengal, operating under MAKAUT.",
+  "about": "BCREC started in August 2000 and offers B.Tech, M.Tech, MBA and MCA programmes. It was accredited by NAAC with a B+ grade in 2021. UGC and MAKAUT granted it autonomous status for five years from the 2024-25 session.",
+  "established_year": "2000",
+  "address": "Jemua Road, Fuljhore, Durgapur, West Bengal",
+  "affiliated_to": "Maulana Abul Kalam Azad University of Technology, West Bengal",
+  "approvals": "UGC",
+  "naac_grade": "B+",
+  "official_website": "https://www.bcrec.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "wbjee"
+},
+"durgapur-institute-of-advanced-technology-and-management": {
+  "city": "Durgapur",
+  "short_name": "DIATM",
+  "description": "Durgapur Institute of Advanced Technology and Management is an engineering and management college on G.T. Road at Rajbandh, Durgapur.",
+  "about": "DIATM was established in 2002. It sits on NH-2 at Rajbandh in Paschim Bardhaman district. It offers B.Tech programmes along with postgraduate courses in technology and management.",
+  "established_year": "2002",
+  "address": "NH2, G. T. Road, Rajbandh, Durgapur, Paschim Barddhaman, West Bengal 713212",
+  "pincode": "713212",
+  "official_website": "https://diatm.rahul.ac.in/web/",
+  "streams": "engineering",
+  "exams_accepted": "wbjee"
+},
+"kanad-institute-of-engineering-and-management": {
+  "city": "Mankar",
+  "short_name": "KIEM",
+  "description": "Kanad Institute of Engineering and Management is an engineering college at Mankar in Purba Bardhaman district, West Bengal.",
+  "about": "KIEM was set up in 2008 and is managed by the Ma Kalyaneshari Education Trust. It is named after the ancient scholar Kanad. It offers B.Tech programmes in civil, mechanical, electrical, and computer science and engineering.",
+  "established_year": "2008",
+  "address": "Vill and Post Mankar, Dist. Purba Burdwan, West Bengal 713144",
+  "pincode": "713144",
+  "official_website": "https://www.kanadinstitute.in/",
+  "streams": "engineering",
+  "exams_accepted": "wbjee"
+},
+"kazi-nazrul-university": {
+  "city": "Asansol",
+  "college_type": "STATE",
+  "short_name": "KNU",
+  "description": "Kazi Nazrul University is a state university in Asansol, West Bengal, which runs B.Tech programmes in mining and metallurgical engineering.",
+  "about": "The university was created under West Bengal Act XIX of 2012 and is named after the poet Kazi Nazrul Islam. Its campus is at Kalla More in Asansol, Paschim Bardhaman. Its engineering departments focus on mining and metallurgy, with hands-on training drawn from the surrounding industrial belt.",
+  "established_year": "2012",
+  "address": "Nazrul Road, Kalla More, Asansol, Paschim Bardhaman, West Bengal 713340",
+  "pincode": "713340",
+  "ownership": "PUBLIC",
+  "official_website": "https://www.knu.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "wbjee"
+}
+}

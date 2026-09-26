@@ -1,0 +1,121 @@
+{
+ "alipurduar-government-engineering-and-management-college": {
+  "college_type": "GOVERNMENT",
+  "short_name": "AGEMC",
+  "description": "Alipurduar Government Engineering and Management College is a Government of West Bengal engineering college and the first engineering college in Alipurduar district.",
+  "about": "AGEMC is an initiative of the Government of West Bengal and admitted its first students in the 2023-24 session. It is located in the Alipurduar-II block of Alipurduar district. It is the first engineering college in the district.",
+  "established_year": "2023",
+  "address": "Block Alipurduar-II, District Alipurduar, West Bengal 736206",
+  "district": "ALIPURDUAR",
+  "pincode": "736206",
+  "ownership": "PUBLIC",
+  "official_website": "https://agemc.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "wbjee"
+ },
+ "jalpaiguri-government-engineering-college": {
+  "city": "Jalpaiguri",
+  "college_type": "GOVERNMENT",
+  "short_name": "JGEC",
+  "description": "Jalpaiguri Government Engineering College is a government-owned autonomous engineering college in Jalpaiguri, and the second oldest engineering college in West Bengal.",
+  "about": "JGEC was established in 1961 and is fully owned by the Government of West Bengal. It functions as an autonomous college affiliated to Maulana Abul Kalam Azad University of Technology and is accredited by NAAC. It offers six undergraduate programmes, in civil, computer science, electronics and communication, electrical, information technology and mechanical engineering, plus postgraduate programmes in electrical and mechanical engineering.",
+  "established_year": "1961",
+  "address": "PO Jalpaiguri Govt. Engg. College, Jalpaiguri, West Bengal 735102",
+  "pincode": "735102",
+  "ownership": "PUBLIC",
+  "affiliated_to": "Maulana Abul Kalam Azad University of Technology, West Bengal",
+  "official_website": "https://jgec.ac.in/",
+  "streams": "engineering"
+ },
+ "camellia-institute-of-technology": {
+  "city": "Madhyamgram",
+  "description": "Camellia Institute of Technology is an engineering college of the Camellia Group located at Digberia on Badu Road, Madhyamgram.",
+  "about": "The institute belongs to the Camellia Group, whose foundation was laid by Nil Ratan Datta in 1990. It is located on Badu Road at Digberia, Madhyamgram. It holds AICTE approval and its programmes are linked to Maulana Abul Kalam Azad University of Technology.",
+  "address": "Digberia, Badu Road, Madhyamgram, Kolkata, West Bengal",
+  "affiliated_to": "Maulana Abul Kalam Azad University of Technology, West Bengal",
+  "approvals": "AICTE",
+  "official_website": "https://camelliait.ac.in/",
+  "streams": "engineering"
+ },
+ "department-of-jute-and-fibre-technology-institute-of-jute-technology-university-of-calcutt": {
+  "city": "Kolkata",
+  "description": "The Department of Jute and Fibre Technology at the Institute of Jute Technology is a technology department of the University of Calcutta on Ballygunge Circular Road, Kolkata.",
+  "about": "The Institute of Jute Technology was set up jointly by the University of Calcutta and the Indian Jute Mills Association. It was inaugurated by Chief Minister Dr. B.C. Roy on 10 March 1951. It began as an affiliated college of the university and became a postgraduate technology department of the University of Calcutta from 1 July 2011. It offers B.Tech and postgraduate programmes in jute and fibre technology.",
+  "established_year": "1951",
+  "address": "35 Ballygunge Circular Road, Kolkata, West Bengal 700019",
+  "pincode": "700019",
+  "affiliated_to": "University of Calcutta",
+  "official_website": "https://www.caluniv.ac.in/academic/Jute.html",
+  "streams": "engineering"
+ },
+ "dr-sudhir-chandra-sur-institute-of-technology-and-sports-complex": {
+  "official_website": "https://dsec.ac.in/",
+  "streams": "engineering"
+ },
+ "future-institute-of-technology": {
+  "city": "Kolkata",
+  "short_name": "FIT",
+  "description": "Future Institute of Technology is a private engineering college at Boral near Garia in south Kolkata, part of the Future Education group.",
+  "about": "FIT is approved by AICTE and affiliated to Maulana Abul Kalam Azad University of Technology, West Bengal. Its B.Tech programmes cover computer science, AI and machine learning, IoT, electronics and communication, electrical and civil engineering. The campus is at Boral in the Garia area.",
+  "affiliated_to": "Maulana Abul Kalam Azad University of Technology, West Bengal",
+  "approvals": "AICTE",
+  "official_website": "https://futureeducation.in/fit/",
+  "streams": "engineering",
+  "exams_accepted": "wbjee"
+ },
+ "government-college-of-engineering-and-ceramic-technology": {
+  "city": "Kolkata",
+  "college_type": "GOVERNMENT",
+  "short_name": "GCECT",
+  "description": "Government College of Engineering and Ceramic Technology is a government engineering college in Kolkata, autonomous under MAKAUT, known for its ceramic technology programme.",
+  "about": "GCECT was established in 1941. It is affiliated to Maulana Abul Kalam Azad University of Technology and holds autonomous status. In 2015 it became the first government engineering college in West Bengal to receive NAAC accreditation, with an A grade.",
+  "established_year": "1941",
+  "address": "73 Abinash Chandra Banerjee Lane, Kolkata, West Bengal 700010",
+  "pincode": "700010",
+  "ownership": "PUBLIC",
+  "affiliated_to": "Maulana Abul Kalam Azad University of Technology, West Bengal",
+  "naac_grade": "A",
+  "official_website": "https://gcect.ac.in/",
+  "streams": "engineering"
+ },
+ "jadavpur-university": {
+  "city": "Kolkata",
+  "college_type": "STATE",
+  "short_name": "JU",
+  "description": "Jadavpur University is a state public university in Kolkata with a large faculty of engineering and technology, accredited by NAAC with an A+ grade.",
+  "about": "The university was established in 1955 by converting the Bengal Technical Institute. Its main campus is on Raja S.C. Mallick Road in Jadavpur, and it also has a campus in Salt Lake. It holds a NAAC A+ grade with a CGPA of 3.46 in its fourth cycle. In NIRF 2025 it ranked 18th in engineering and first among state public universities.",
+  "established_year": "1955",
+  "address": "188 Raja S.C. Mallick Road, Kolkata, West Bengal 700032",
+  "pincode": "700032",
+  "ownership": "PUBLIC",
+  "naac_grade": "A+",
+  "naac_score": "3.46",
+  "official_website": "https://jadavpuruniversity.in/",
+  "streams": "engineering"
+ },
+ "meghnad-saha-institute-of-technology": {
+  "city": "Kolkata",
+  "short_name": "MSIT",
+  "description": "Meghnad Saha Institute of Technology is a private engineering college at Nazirabad in south-east Kolkata, affiliated to MAKAUT.",
+  "about": "MSIT was established on 5 September 2001. It is approved by AICTE and affiliated to Maulana Abul Kalam Azad University of Technology, and some of its programmes are NBA accredited. It offers B.Tech programmes along with BCA, BBA and MCA courses.",
+  "established_year": "2001",
+  "affiliated_to": "Maulana Abul Kalam Azad University of Technology, West Bengal",
+  "approvals": "AICTE, NBA",
+  "official_website": "https://www.msit.edu.in/",
+  "streams": "engineering"
+ },
+ "netaji-subhash-engineering-college": {
+  "city": "Kolkata",
+  "short_name": "NSEC",
+  "description": "Netaji Subhash Engineering College is a private engineering college at Panchpota, Garia in Kolkata, set up by the Institute of Computer Engineers (India).",
+  "about": "NSEC was established in 1998 by the Institute of Computer Engineers (India). It is approved by AICTE and affiliated to Maulana Abul Kalam Azad University of Technology. It holds a NAAC B+ grade from its second cycle, valid until 2030, and NBA accreditation for programmes including EE, ECE, biomedical and CSE.",
+  "established_year": "1998",
+  "address": "Technocity, Panchpota, Garia, Kolkata, West Bengal 700152",
+  "pincode": "700152",
+  "affiliated_to": "Maulana Abul Kalam Azad University of Technology, West Bengal",
+  "approvals": "AICTE, NBA",
+  "naac_grade": "B+",
+  "official_website": "https://www.nsec.ac.in/",
+  "streams": "engineering"
+ }
+}

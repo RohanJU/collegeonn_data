@@ -1,0 +1,75 @@
+{
+"heritage-institute-of-technology": {
+  "city": "Kolkata",
+  "college_type": "AUTONOMOUS",
+  "short_name": "HITK",
+  "description": "Heritage Institute of Technology is an autonomous engineering college at Anandapur on the eastern fringe of Kolkata, set up by the Kalyan Bharti Trust.",
+  "about": "HITK was set up in 2001 by the Kalyan Bharti Trust, a charitable foundation formed by a group of Kolkata industrialists. It is affiliated to Maulana Abul Kalam Azad University of Technology and has been autonomous since the 2014-15 academic year. It holds AICTE approval.",
+  "established_year": "2001",
+  "address": "994 Madurdaha, Chowbaga Road, Anandapur, PO East Kolkata Township, Kolkata, West Bengal 700107",
+  "pincode": "700107",
+  "affiliated_to": "Maulana Abul Kalam Azad University of Technology, West Bengal",
+  "approvals": "AICTE",
+  "official_website": "https://www.heritageit.edu/",
+  "streams": "engineering"
+},
+"jld-engineering-and-management-college": {
+  "city": "Baruipur",
+  "description": "JLD Engineering and Management College is a B.Tech college at Begampur in the Baruipur area of South 24 Parganas.",
+  "about": "The college was established in 2015. It is approved by AICTE and affiliated to Maulana Abul Kalam Azad University of Technology, West Bengal. Its campus is at Begampur, Tentulia, in Baruipur.",
+  "established_year": "2015",
+  "address": "Mouza Begampur, PO Tentulia, PS Baruipur, South 24 Parganas, West Bengal 743610",
+  "pincode": "743610",
+  "affiliated_to": "Maulana Abul Kalam Azad University of Technology, West Bengal",
+  "approvals": "AICTE",
+  "official_website": "https://jldemc.in/",
+  "streams": "engineering",
+  "exams_accepted": "wbjee"
+},
+"pailan-college-of-management-and-technology-b-tech-division": {
+  "city": "Kolkata",
+  "short_name": "PCMT",
+  "description": "Pailan College of Management and Technology is a private college in Bengal Pailan Park, Joka, whose B.Tech division offers MAKAUT-affiliated engineering programmes.",
+  "about": "PCMT is located in Bengal Pailan Park near Joka, off Diamond Harbour Road. Its B.Tech courses are affiliated to Maulana Abul Kalam Azad University of Technology and approved by AICTE. The college also runs management, computer application, optometry, hospitality and tourism programmes.",
+  "address": "Bengal Pailan Park, Sector 1, Phase 1, Amgachia Road, Pailan, Joka, Kolkata, West Bengal",
+  "affiliated_to": "Maulana Abul Kalam Azad University of Technology, West Bengal",
+  "approvals": "AICTE",
+  "official_website": "https://pcmt-india.net/",
+  "streams": "engineering",
+  "exams_accepted": "wbjee"
+},
+"swami-vivekananda-institute-of-science-and-technology": {
+  "city": "Sonarpur",
+  "short_name": "SVIST",
+  "description": "Swami Vivekananda Institute of Science and Technology is a trust-run engineering college at Dakshin Gobindapur, Sonarpur, accredited by NAAC with a B++ grade.",
+  "about": "SVIST started in 2008 with B.Tech courses in computer science, electronics and communication, electrical and electronics, and mechanical engineering. It is approved by AICTE and affiliated to MAKAUT for degree programmes. It holds a NAAC B++ grade with a CGPA of 2.82 in its second cycle, valid to May 2030.",
+  "established_year": "2008",
+  "address": "Dakshin Gobindapur, PS Sonarpur, South 24 Parganas, West Bengal",
+  "affiliated_to": "Maulana Abul Kalam Azad University of Technology, West Bengal",
+  "approvals": "AICTE",
+  "naac_grade": "B++",
+  "naac_score": "2.82",
+  "official_website": "https://svist.org/",
+  "streams": "engineering",
+  "exams_accepted": "wbjee"
+},
+"techno-india-university-west-bengal-joka-campus": {
+  "college_type": "PRIVATE",
+  "short_name": "TIU",
+  "description": "The Joka campus of Techno India University, West Bengal, a private state university headquartered in Salt Lake, Kolkata.",
+  "about": "Techno India University, West Bengal was established by a 2012 act of the state legislature and is recognised by UGC under Section 2(f). It offers undergraduate, postgraduate and doctoral programmes, including AICTE-approved engineering courses. This row covers its Joka campus in South 24 Parganas.",
+  "ownership": "PRIVATE",
+  "approvals": "UGC, AICTE",
+  "official_website": "https://www.technoindiauniversity.ac.in/",
+  "streams": "engineering"
+},
+"techno-international-batanagar": {
+  "short_name": "TIB",
+  "description": "Techno International Batanagar, formerly Techno India Batanagar, is a Techno India Group engineering college in the Batanagar area of South 24 Parganas.",
+  "about": "The college was earlier known as Techno India Batanagar. It is approved by AICTE and affiliated to Maulana Abul Kalam Azad University of Technology. It offers B.Tech programmes.",
+  "affiliated_to": "Maulana Abul Kalam Azad University of Technology, West Bengal",
+  "approvals": "AICTE",
+  "official_website": "https://tib.edu.in/",
+  "streams": "engineering"
+}
+}
