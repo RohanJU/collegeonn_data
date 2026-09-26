@@ -1,0 +1,99 @@
+{
+"neelkanth-institute-of-technology": {
+  "city": "Meerut",
+  "short_name": "NIT",
+  "description": "Neelkanth Institute of Technology is a private engineering college of the Neelkanth Group of Institutions near Modipuram, Meerut, affiliated to AKTU.",
+  "about": "The Neelkanth group was established in 2007. It is approved by AICTE and affiliated to Dr. A.P.J. Abdul Kalam Technical University (formerly UPTU). The campus is on NH-58 near the Sardar Vallabhbhai Patel agricultural university at Modipuram.",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://neelkanth.edu.in/neelkanth-institute-of-technology-the-best-engineering-college-in-meerut/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"panchwati-institute-of-engineering-and-technology": {
+  "city": "Meerut",
+  "description": "Panchwati Institute of Engineering and Technology is a private engineering college in Meerut run by Panchwati Education.",
+  "about": "The institute is part of the Panchwati group in Meerut, which also runs a polytechnic. It offers engineering programmes.",
+  "official_website": "https://www.panchwati.edu.in/",
+  "streams": "engineering"
+},
+"rishi-institute-of-enginnering-and-technology": {
+  "city": "Meerut",
+  "short_name": "RIET",
+  "description": "Rishi Institute of Engineering and Technology is a private engineering college in Meerut, listed by AKTU as an affiliated college.",
+  "about": "The college is listed on AKTU's Know Your College portal as an affiliated college. Its own website could not be confirmed.",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"shanti-institute-of-technology-b-tech-cs-it-ec-me-ce-ee-and-mba": {
+  "city": "Meerut",
+  "short_name": "SIT",
+  "description": "Shanti Institute of Technology is a private engineering college on Baghpat Road at Kurali, Meerut, affiliated to AKTU.",
+  "about": "The institute was set up by the Shanti Educational Society, Meerut, from the 2008-09 session. It is approved by AICTE and affiliated to Dr. A.P.J. Abdul Kalam Technical University (formerly UPTU). It offers B.Tech in computer science, IT, electronics, mechanical, civil and electrical engineering, and an MBA.",
+  "established_year": "2008",
+  "address": "Shanti Educational Society Kurali, Bagpat Road, Meerut 250501 (U.P.)",
+  "pincode": "250501",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "http://www.shantieng.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"shanti-niketan-group-of-institutions": {
+  "city": "Meerut",
+  "short_name": "SNGI",
+  "description": "Shanti Niketan Group of Institutions is a private group of colleges in Meerut offering engineering and management programmes.",
+  "about": "The group runs B.Tech, polytechnic and management programmes in Meerut. Its website is sngimeerut.com.",
+  "official_website": "https://www.sngimeerut.com/",
+  "streams": "engineering"
+},
+"shobhit-institute-of-engineering-and-technology": {
+  "city": "Meerut",
+  "college_type": "DEEMED",
+  "short_name": "SIET",
+  "description": "Shobhit Institute of Engineering and Technology is a NAAC A-grade deemed-to-be university on NH-58 at Modipuram, Meerut, also known as Shobhit University.",
+  "about": "The Government of India declared it a deemed-to-be university under Section 3 of the UGC Act on 8 November 2006. It holds an A grade from NAAC (CGPA 3.12, second cycle, valid for five years from 20 December 2022). It has UGC 12-B status, AICTE approval and SIRO recognition from DSIR.",
+  "established_year": "2006",
+  "address": "NH-58, Modipuram, Meerut - 250110",
+  "pincode": "250110",
+  "affiliated_to": "Deemed to be University",
+  "approvals": "UGC, AICTE",
+  "naac_grade": "A",
+  "naac_score": "3.12",
+  "official_website": "https://www.shobhituniversity.ac.in/",
+  "streams": "engineering"
+},
+"shrinathji-institute-for-technical-education": {
+  "city": "Meerut",
+  "short_name": "SRITECH",
+  "description": "Shrinathji Institute for Technical Education is a private engineering college in the Ghat institutional area on the Partapur bypass, Meerut, affiliated to AKTU.",
+  "about": "Its courses are approved by AICTE and affiliated to Dr. A.P.J. Abdul Kalam Technical University and the Board of Technical Education, Lucknow. It offers B.Tech in mechanical, civil, computer science, and electrical and electronics engineering, plus polytechnic diplomas.",
+  "address": "Ghat Institutional Area, Partapur Byepass, Meerut (NCR)- 250 005",
+  "pincode": "250005",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://sritech.edu.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"sir-chhotu-ram-institute-of-engineering-and-technology-ccs-university-meerut": {
+  "city": "Meerut",
+  "short_name": "SCRIET",
+  "description": "Sir Chhotu Ram Institute of Engineering and Technology is the engineering institute of Chaudhary Charan Singh University on its Meerut campus.",
+  "about": "SCRIET is a constituent part of Ch. Charan Singh University, Meerut, and was established in 2002. It offers B.Tech in mechanical, electronics and communication, computer science, information technology, chemical and agricultural engineering. Its B.Tech programme is approved by AICTE.",
+  "established_year": "2002",
+  "affiliated_to": "Chaudhary Charan Singh University, Meerut",
+  "approvals": "AICTE",
+  "official_website": "https://scriet.ccsuniversity.ac.in/",
+  "streams": "engineering"
+},
+"subharti-institute-of-technology-and-engineering": {
+  "city": "Meerut",
+  "description": "Subharti Institute of Technology and Engineering is the engineering institute of Swami Vivekanand Subharti University, a private university on the Delhi-Meerut-Haridwar bypass in Meerut.",
+  "about": "Swami Vivekanand Subharti University was set up under UP Act No. 29 of 2008. Its main campus, Subhartipuram, covers about 250 acres on NH-58. The engineering institute runs B.Tech programmes under the university.",
+  "affiliated_to": "Swami Vivekanand Subharti University, Meerut",
+  "official_website": "https://subharti.org/department_details.php?deptid=ZTkwVXJ0emc2bGIwTHY2bzc5OUlRdz09",
+  "streams": "engineering"
+}
+}

@@ -1,5 +1,5 @@
 {
-"bharat-institute-of-technology-school-of-engineering": {
+ "bharat-institute-of-technology-school-of-engineering": {
   "city": "Meerut",
   "short_name": "BIT Meerut",
   "description": "Bharat Institute of Technology is a private engineering college on the Partapur bypass (NH-58), Meerut, affiliated to AKTU.",
@@ -11,8 +11,8 @@
   "official_website": "https://bitmeerut.edu.in/",
   "streams": "engineering",
   "exams_accepted": "jee-main"
-},
-"college-of-engg-and-rural-technology-meerut": {
+ },
+ "college-of-engg-and-rural-technology-meerut": {
   "city": "Meerut",
   "short_name": "CERT",
   "description": "The College of Engineering and Rural Technology is a private engineering college on the Partapur bypass (NH-58), Meerut, affiliated to AKTU.",
@@ -23,16 +23,16 @@
   "official_website": "https://cert.ac.in/",
   "streams": "engineering",
   "exams_accepted": "jee-main"
-},
-"delhi-institute-of-engineering-and-technology": {
+ },
+ "delhi-institute-of-engineering-and-technology": {
   "city": "Meerut",
   "short_name": "DIET",
   "description": "Delhi Institute of Engineering and Technology is a private engineering college in Meerut.",
   "about": "The institute runs engineering programmes in Meerut. Its website is dietmeerut.com.",
   "official_website": "https://www.dietmeerut.com/",
   "streams": "engineering"
-},
-"dewan-v-s-institute-of-engineering-and-technology": {
+ },
+ "dewan-v-s-institute-of-engineering-and-technology": {
   "city": "Meerut",
   "short_name": "DVSIET",
   "description": "Dewan V.S. Institute of Engineering and Technology is a private engineering college of the Dewan VS Group in Meerut, affiliated to AKTU.",
@@ -42,8 +42,8 @@
   "official_website": "https://dvsiet.dewaninstitutes.com/",
   "streams": "engineering",
   "exams_accepted": "jee-main"
-},
-"fit-engineering-college": {
+ },
+ "fit-engineering-college": {
   "city": "Meerut",
   "description": "FIT Engineering College is a private engineering college in Meerut, listed by AKTU as an affiliated college.",
   "about": "The college is listed on AKTU's Know Your College portal as an affiliated college. It offers B.Tech programmes in Meerut.",
@@ -51,5 +51,63 @@
   "official_website": "https://fitenggmeerut.com/",
   "streams": "engineering",
   "exams_accepted": "jee-main"
-}
+ },
+ "iimt-engineering-college": {
+  "city": "Meerut",
+  "short_name": "IIMT",
+  "description": "IIMT Engineering College is a private engineering college on Mawana Road, Meerut, and the flagship college of the IIMT Group of Colleges.",
+  "about": "The college is affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow, and its courses are approved by AICTE. It is at O Pocket, Ganga Nagar, on Mawana Road in Meerut.",
+  "address": "'O' Pocket Ganga Nagar Mawana Road, Meerut -250001, Uttar Pradesh",
+  "pincode": "250001",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://iimtcollege.edu.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+ },
+ "jp-institute-of-engineering-and-technilogy": {
+  "city": "Meerut",
+  "short_name": "JPIET",
+  "description": "JP Institute of Engineering and Technology is a private college of the JP Group of Institutions in Meerut offering technical and management programmes.",
+  "about": "The institute belongs to the JP Group of Institutions in Meerut. It offers engineering and management programmes; its website mentions both AKTU and CCS University affiliations for different courses.",
+  "official_website": "https://jpiet.in/",
+  "streams": "engineering"
+ },
+ "meerut-institute-of-engineering-and-technology": {
+  "city": "Meerut",
+  "short_name": "MIET",
+  "description": "Meerut Institute of Engineering and Technology is a private engineering college on NH-58 at the Baghpat Road bypass crossing, Meerut, affiliated to AKTU.",
+  "about": "MIET was established in 1997 as a self-financed institute affiliated to the state technical university of Uttar Pradesh, now Dr. A.P.J. Abdul Kalam Technical University. It is NAAC-accredited and has NBA-accredited programmes. The campus is on the Delhi-Roorkee highway.",
+  "established_year": "1997",
+  "address": "N.H. 58, Delhi-Roorkee Highway, Baghpat Road Bypass Crossing Meerut - 250005, Uttar Pradesh (India)",
+  "pincode": "250005",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://www.miet.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+ },
+ "meerut-institute-of-technology": {
+  "city": "Meerut",
+  "short_name": "MIT Meerut",
+  "description": "Meerut Institute of Technology is a private engineering college on NH-58 at Partapur, Meerut, affiliated to AKTU.",
+  "about": "The institute was founded in 2007 and is run by the Vishnu Education Foundation. It is affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow. It is near the Meerut South metro station on NH-58.",
+  "established_year": "2007",
+  "address": "National Highway 58, Baral, Partapur, Near Meerut South Metro Station, Meerut, Uttar Pradesh 250103",
+  "pincode": "250103",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://mitmeerut.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+ },
+ "meerut-international-institute-of-technology": {
+  "city": "Meerut",
+  "short_name": "MIIT",
+  "description": "Meerut International Institute of Technology is a private engineering and management institute in Meerut, affiliated to AKTU for B.Tech.",
+  "about": "The institute is affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow for its B.Tech programme, and its courses are approved by AICTE. It also offers MBA and polytechnic programmes.",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://www.meerutiit.com/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+ }
 }
