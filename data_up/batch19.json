@@ -1,0 +1,55 @@
+{
+"bharat-institute-of-technology-school-of-engineering": {
+  "city": "Meerut",
+  "short_name": "BIT Meerut",
+  "description": "Bharat Institute of Technology is a private engineering college on the Partapur bypass (NH-58), Meerut, affiliated to AKTU.",
+  "about": "The institute was established in 2001 and is affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow. It also runs polytechnic and computer application programmes. Its campus is on NH-58 at the Partapur bypass.",
+  "established_year": "2001",
+  "address": "NH-58, Partapur Bypass Meerut - 250103",
+  "pincode": "250103",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://bitmeerut.edu.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"college-of-engg-and-rural-technology-meerut": {
+  "city": "Meerut",
+  "short_name": "CERT",
+  "description": "The College of Engineering and Rural Technology is a private engineering college on the Partapur bypass (NH-58), Meerut, affiliated to AKTU.",
+  "about": "CERT was established in 1999 under the Chitragupt Social Welfare and Educational Society. It is affiliated to Dr. A.P.J. Abdul Kalam Technical University and approved by AICTE. It offers B.Tech, MBA and polytechnic programmes.",
+  "established_year": "1999",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://cert.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"delhi-institute-of-engineering-and-technology": {
+  "city": "Meerut",
+  "short_name": "DIET",
+  "description": "Delhi Institute of Engineering and Technology is a private engineering college in Meerut.",
+  "about": "The institute runs engineering programmes in Meerut. Its website is dietmeerut.com.",
+  "official_website": "https://www.dietmeerut.com/",
+  "streams": "engineering"
+},
+"dewan-v-s-institute-of-engineering-and-technology": {
+  "city": "Meerut",
+  "short_name": "DVSIET",
+  "description": "Dewan V.S. Institute of Engineering and Technology is a private engineering college of the Dewan VS Group in Meerut, affiliated to AKTU.",
+  "about": "The institute is affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow and approved by AICTE. It is on the Delhi-Mussoorie highway in Meerut. It offers B.Tech, MBA and MCA.",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://dvsiet.dewaninstitutes.com/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"fit-engineering-college": {
+  "city": "Meerut",
+  "description": "FIT Engineering College is a private engineering college in Meerut, listed by AKTU as an affiliated college.",
+  "about": "The college is listed on AKTU's Know Your College portal as an affiliated college. It offers B.Tech programmes in Meerut.",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://fitenggmeerut.com/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+}
+}

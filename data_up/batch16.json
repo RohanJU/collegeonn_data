@@ -1,0 +1,108 @@
+{
+"goel-institute-of-technology-and-management": {
+  "city": "Lucknow",
+  "short_name": "GITM",
+  "description": "Goel Institute of Technology and Management is a private engineering college on Faizabad Road, Lucknow, affiliated to AKTU.",
+  "about": "GITM was established in 2008. It is approved by AICTE and affiliated to Dr. A.P.J. Abdul Kalam Technical University (code 360), and its polytechnic is under the Board of Technical Education. Its computer science programme is NBA-accredited.",
+  "established_year": "2008",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE, NBA",
+  "official_website": "https://gitm.goel.edu.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"himalyan-institute-of-technology-and-management": {
+  "city": "Lucknow",
+  "short_name": "HITM",
+  "description": "Himalayan Institute of Technology and Management is a private engineering college at Bakshi Ka Talab on Sitapur Road, Lucknow, affiliated to AKTU.",
+  "about": "The institute is approved by AICTE and affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow. It is at Mohammadpur Saraiya, Bakshi Ka Talab, on Sitapur Road. It offers B.Tech programmes.",
+  "address": "Mohammadpur Saraiya, Bakshi Ka Talab, Sitapur Road, Lucknow-227005",
+  "pincode": "227005",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://hitmlucknow.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"indian-institute-of-information-technology-lucknow": {
+  "city": "Lucknow",
+  "short_name": "IIIT Lucknow",
+  "description": "IIIT Lucknow is one of the Indian Institutes of Information Technology set up by the Central Government in public-private partnership mode, at Chak Ganjaria, Lucknow.",
+  "about": "The institute is one of 20 IIITs set up by the Central Government in public-private partnership (PPP) mode. Its campus is at Chak Ganjaria in Lucknow. It offers programmes in information technology and computer science.",
+  "address": "IIIT Lucknow, Chak Ganjaria, C. G., City Lucknow - 226002",
+  "pincode": "226002",
+  "ownership": "PPP",
+  "official_website": "https://iiitl.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"institute-of-engineering-and-technology-4": {
+  "city": "Lucknow",
+  "college_type": "AUTONOMOUS",
+  "short_name": "IET Lucknow",
+  "description": "The Institute of Engineering and Technology, Lucknow is an autonomous constituent institute of AKTU on Sitapur Road, funded by the Government of Uttar Pradesh.",
+  "about": "IET was set up by the Government of Uttar Pradesh in 1984 as a society-governed institute. It is an autonomous constituent institute of Dr. A.P.J. Abdul Kalam Technical University, financed by the state government and administered by the AKTU Executive Council. It has departments of computer science, electronics, mechanical, electrical, chemical and civil engineering, among others.",
+  "established_year": "1984",
+  "address": "Sitapur Road, Lucknow, Uttar Pradesh, India 226021",
+  "pincode": "226021",
+  "ownership": "PUBLIC",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://www.ietlucknow.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"institute-of-technology-and-management-lucknow": {
+  "city": "Lucknow",
+  "short_name": "ITM",
+  "description": "Institute of Technology and Management, Lucknow is a private college offering engineering and management programmes, affiliated to AKTU.",
+  "about": "The institute is approved by AICTE and affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow. It offers B.Tech along with management, commerce and polytechnic programmes.",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://itmlucknow.com/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"isabella-thoburn-college-professional-studies": {
+  "city": "Lucknow",
+  "short_name": "ITCPS",
+  "description": "Isabella Thoburn College (Professional Studies) is a women's college on Faizabad Road, Lucknow, offering B.Tech, BBA and MBA programmes.",
+  "about": "The college was set up in 2017 under the Isabella Thoburn College Society. It is approved by AICTE and affiliated to Dr. A.P.J. Abdul Kalam Technical University. It admits only women and is near the IT metro station.",
+  "established_year": "2017",
+  "address": "Gate No. 9, 7 Faizabad Road, Lucknow-226007 U.P.",
+  "pincode": "226007",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://itcollege.ac.in/itcps/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"khwaja-moinuddin-chishti-urdu-arabi-farsi-university": {
+  "city": "Lucknow",
+  "college_type": "STATE",
+  "short_name": "KMCLU",
+  "description": "Khwaja Moinuddin Chishti Language University is a state public university in Lucknow that also runs B.Tech programmes.",
+  "about": "The university was set up under the Uttar Pradesh Universities Act, 2009, and took its present name in 2020. It focuses on languages, humanities and social sciences, and also offers professional programmes. Its B.Tech programmes include computer science, biotechnology and mechanical engineering.",
+  "ownership": "PUBLIC",
+  "official_website": "https://kmclu.ac.in/",
+  "streams": "engineering"
+},
+"lucknow-institute-of-technology-lucknow": {
+  "city": "Lucknow",
+  "short_name": "LIT",
+  "description": "Lucknow Institute of Technology is a private engineering college on the Bijnaur-Banthra road, Lucknow, affiliated to AKTU.",
+  "about": "LIT was established in 2008. It is affiliated to Dr. A.P.J. Abdul Kalam Technical University (code 362) and the Board of Technical Education, Uttar Pradesh, and approved by AICTE. It is near the CRPF campus on the Bijnaur-Banthra road.",
+  "established_year": "2008",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://www.litlucknow.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"lucknow-public-college-of-professional-stidies": {
+  "city": "Lucknow",
+  "short_name": "LPCPS",
+  "description": "Lucknow Public College of Professional Studies is a private college in Lucknow run by the Lucknow Public Educational Society.",
+  "about": "The college was set up and is managed by the Lucknow Public Educational Society. Its website lists degree programmes, and no engineering programme could be confirmed.",
+  "official_website": "https://lpcps.org.in/"
+}
+}

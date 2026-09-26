@@ -1,0 +1,109 @@
+{
+"m-g-institute-of-management-and-technology": {
+  "city": "Lucknow",
+  "short_name": "MGIMT",
+  "description": "M.G. Institute of Management and Technology is a private engineering and management institute in Lucknow, affiliated to AKTU.",
+  "about": "The institute is affiliated to Dr. A.P.J. Abdul Kalam Technical University and approved by AICTE. It offers B.Tech in computer science, mechanical, civil and electrical engineering, along with M.Tech and MBA.",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://mgimt.edu.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"maharana-institute-of-technology-and-sciences": {
+  "city": "Lucknow",
+  "short_name": "MITS",
+  "description": "Maharana Institute of Technology and Sciences is a private engineering college on Raebareli Road near Mohanlalganj, Lucknow, affiliated to AKTU.",
+  "about": "The institute is affiliated to Dr. A.P.J. Abdul Kalam Technical University and approved by AICTE. It offers B.Tech in computer science, artificial intelligence and data science, and an MBA. It is at Gaura, Mohanlalganj, on Raebareli Road.",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://www.mitslko.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"maharishi-university-of-information-technology": {
+  "city": "Lucknow",
+  "college_type": "PRIVATE",
+  "short_name": "MUIT",
+  "description": "Maharishi University of Information Technology is a private university on Sitapur Road, Lucknow, offering B.Tech, M.Tech and computer application programmes.",
+  "about": "The university was established under the MUIT Uttar Pradesh Act No. 31 of 2001, notified on 6 October 2001. Its Lucknow campus is on Sitapur Road. It offers diploma, B.Tech, M.Tech, BCA and MCA programmes.",
+  "established_year": "2001",
+  "address": "Sitapur Road, P.O-Maharishi Vidya Mandir, Lucknow-226013 (UP)",
+  "pincode": "226013",
+  "official_website": "https://lucknow.maharishiuniversity.ac.in/",
+  "streams": "engineering"
+},
+"r-r-institute-of-modern-technology": {
+  "city": "Lucknow",
+  "short_name": "RRIMT",
+  "description": "R.R. Institute of Modern Technology is a private engineering college of the R.R. Group of Institutions in Lucknow.",
+  "about": "The institute belongs to the R.R. Group of Institutions, which runs engineering, management and polytechnic programmes in Lucknow. It offers B.Tech programmes.",
+  "official_website": "https://rrimt.ac.in/",
+  "streams": "engineering"
+},
+"rameshwaram-institute-of-technology-and-management": {
+  "city": "Lucknow",
+  "short_name": "RITM",
+  "description": "Rameshwaram Institute of Technology and Management is a private engineering college on Sitapur Road, Lucknow, affiliated to AKTU.",
+  "about": "The institute is approved by AICTE and affiliated to Dr. A.P.J. Abdul Kalam Technical University (formerly UPTU). It offers engineering, management, pharmacy and diploma programmes.",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://www.ritm.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"saroj-institute-of-management-and-technology": {
+  "city": "Lucknow",
+  "description": "Saroj Institute of Management and Technology is an institute of the Saroj Educational Group in Lucknow, now listed under Saroj International University.",
+  "about": "The institute belongs to the Saroj Educational Group, which runs engineering, management and pharmacy institutions in Lucknow. Its page is now hosted on the Saroj International University website.",
+  "official_website": "https://sarojuniversity.edu.in/academics/Saroj-institute-of-management-and-technology",
+  "streams": "engineering"
+},
+"saroj-institute-of-technology-and-management-lucknow": {
+  "city": "Lucknow",
+  "short_name": "SITM",
+  "description": "Saroj Institute of Technology and Management is a private engineering college of the Saroj Educational Group on Sultanpur Road, Lucknow, affiliated to AKTU.",
+  "about": "The institute is part of the Saroj Educational Group, which runs institutions in engineering, management and pharmacy. It is listed on AKTU's Know Your College portal as an affiliated college. It offers B.Tech programmes.",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://sitmlko.org/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"school-of-management-sciences": {
+  "city": "Lucknow",
+  "short_name": "SMS Lucknow",
+  "description": "School of Management Sciences is a private college on Sultanpur Road, Lucknow, offering B.Tech and management programmes.",
+  "about": "The college offers B.Tech in several branches under Dr. A.P.J. Abdul Kalam Technical University, along with MBA, BBA and BCA. It is listed on AKTU's Know Your College portal. The campus is at Kashimpur on Sultanpur Road.",
+  "address": "19th Kilometer Stone, Sultanpur Road, Kashimpur, Biruha Post - Gosainganj, Lucknow - 226501 (U.P)",
+  "pincode": "226501",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://smslucknow.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"shri-ramswaroop-memorial-college-of-engineering-and-management": {
+  "city": "Lucknow",
+  "short_name": "SRMCEM",
+  "description": "Shri Ramswaroop Memorial College of Engineering and Management is a private engineering college on Faizabad Road, Lucknow, affiliated to AKTU.",
+  "about": "The college was established in 1999. It is recognised by AICTE and affiliated to Dr. A.P.J. Abdul Kalam Technical University. Its electronics and communication and computer science B.Tech programmes are NBA-accredited.",
+  "established_year": "1999",
+  "address": "Tewariganj, Faizabad Road, Lucknow - 226028",
+  "pincode": "226028",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE, NBA",
+  "official_website": "https://srmcem.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"sr-institute-of-management-and-technology": {
+  "city": "Lucknow",
+  "short_name": "SRIMT",
+  "description": "SR Institute of Management and Technology is a private engineering college of the SR Group of Institutions, Lucknow, affiliated to AKTU.",
+  "about": "The SR group is approved by AICTE and runs its courses in affiliation with Dr. A.P.J. Abdul Kalam Technical University. SRIMT offers B.Tech, M.Tech, B.Voc and MBA programmes.",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://srimt.co.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+}
+}

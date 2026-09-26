@@ -1,0 +1,100 @@
+{
+"uttar-pradesh-state-institute-of-forensic-sciences-lucknow": {
+  "city": "Lucknow",
+  "short_name": "UPSIFS",
+  "description": "The Uttar Pradesh State Institute of Forensic Science is a state institute in Lucknow that began teaching in 2023 and offers forensic, law and technology programmes.",
+  "about": "The institute started its first academic session in 2023-24 and was inaugurated by the Chief Minister of Uttar Pradesh on 16 August 2023. It is affiliated to the National Forensic Sciences University, Gandhinagar. Its programmes include an integrated B.Tech-M.Tech in computer science and engineering (cyber security).",
+  "established_year": "2023",
+  "affiliated_to": "National Forensic Sciences University, Gandhinagar",
+  "official_website": "https://upsifs.ac.in/",
+  "streams": "engineering"
+},
+"institute-of-technology-and-management-2": {
+  "short_name": "ITM",
+  "description": "Institute of Technology and Management, Maharajganj is a private engineering college on the Pharenda-Maharajganj road, affiliated to AKTU.",
+  "about": "The college offers B.Tech in civil, mechanical, computer science, and electronics and communication engineering, plus computer science specialisations in AI, AI and ML, and data science. It is listed on AKTU's Know Your College portal as an affiliated college.",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://itmmaharajganj.com/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"lokmata-devi-ahilya-bai-holkar-rajkiya-engineering-college-mainpuri": {
+  "city": "Mainpuri",
+  "college_type": "GOVERNMENT",
+  "short_name": "REC Mainpuri",
+  "description": "Lokmata Devi Ahilya Bai Holkar Rajkiya Engineering College, Mainpuri is an AICTE-approved government engineering college affiliated to AKTU.",
+  "about": "The Government of Uttar Pradesh set up the college in 2015. It is approved by AICTE and affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow. It is on the Shikohabad road at Nauner in Mainpuri.",
+  "established_year": "2015",
+  "address": "NH 84 Road Nauner, Bhongoan, Shikohabad Rd, Nouner, Mainpuri, Uttar Pradesh 205119, India",
+  "pincode": "205119",
+  "ownership": "PUBLIC",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://recmainpuri.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"bsa-college-of-engineering-and-technology": {
+  "city": "Mathura",
+  "short_name": "BSACET",
+  "description": "B.S.A. College of Engineering and Technology is a non-profit private engineering college near the new bus stand in Mathura, affiliated to AKTU.",
+  "about": "The college was founded in 1997 by the Shri Agrawal Shiksha Mandal of Mathura. It is recognised by AICTE and PCI and affiliated to Dr. A.P.J. Abdul Kalam Technical University and the Board of Technical Education, Lucknow. It offers technical and management education.",
+  "established_year": "1997",
+  "address": "Near New Bus Stand, Mathura (U.P.), 281004",
+  "pincode": "281004",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE, PCI",
+  "official_website": "https://bsacet.org/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"eshan-college-of-engineering": {
+  "description": "Eshan College of Engineering is a private engineering college in Mathura district, listed by AKTU as an affiliated college.",
+  "about": "The college is listed on AKTU's Know Your College portal as an affiliated college. It offers B.Tech, M.Tech, MBA and polytechnic courses.",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://www.eshancollege.com/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"g-l-bajaj-group-of-institutions": {
+  "city": "Mathura",
+  "short_name": "GLBGI",
+  "description": "GL Bajaj Group of Institutions is a private engineering and management institution on the Mathura-Delhi highway, affiliated to AKTU.",
+  "about": "The institution is approved by AICTE and affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow. Its campus is at the 23 km milestone on NH-2, the Mathura-Delhi road. It offers programmes in engineering, architecture and management.",
+  "address": "NH#2, Mathura-Delhi Highway, Mathura-281406 (UP)",
+  "pincode": "281406",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://www.glbajajgroup.org/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"hardayal-technical-campus": {
+  "short_name": "HTC",
+  "description": "Hardayal Technical Campus is a private engineering college on NH-2 at Farah in Mathura district, listed by AKTU as an affiliated college.",
+  "about": "The college is on NH-2 at Farah, between Agra and Mathura. It is listed on AKTU's Know Your College portal as an affiliated college. It offers engineering, business studies, architecture and diploma courses.",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "http://hardayal.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"hindustan-college-of-science-and-technology": {
+  "city": "Farah",
+  "short_name": "HCST",
+  "description": "Hindustan College of Science and Technology is a private engineering college at Farah in Mathura district, affiliated to AKTU.",
+  "about": "The college is affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow (code 064) and approved by AICTE. It is part of the Hindustan campus of the Sharda group. It offers bachelor's degrees in several engineering branches and master's degrees in management and engineering.",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://hcst.edu.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"abss-institute-of-technology": {
+  "city": "Meerut",
+  "description": "ABSS Institute of Technology is a private institute in Meerut offering engineering, management and pharmacy programmes.",
+  "about": "The institute is approved by AICTE and PCI. It offers engineering, management and pharmacy programmes. It is on Mawana Road in Meerut.",
+  "approvals": "AICTE, PCI",
+  "official_website": "https://www.abss.edu.in/",
+  "streams": "engineering"
+}
+}
