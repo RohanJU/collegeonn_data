@@ -1,0 +1,123 @@
+{
+"azad-institute-of-engineering-and-technology": {
+  "city": "Lucknow",
+  "short_name": "AIET",
+  "description": "Azad Institute of Engineering and Technology is a private engineering college in Lucknow, part of the Azad Group of Educational Institutions.",
+  "about": "The institute's courses are approved by AICTE and affiliated to Dr. A.P.J. Abdul Kalam Technical University. The group reports NBA accreditation. It offers B.Tech along with pharmacy, management and computer application programmes.",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE, NBA",
+  "official_website": "https://www.aiet.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"babu-banarasi-das-northern-india-institute-of-technology": {
+  "city": "Lucknow",
+  "short_name": "BBDNIIT",
+  "description": "Babu Banarasi Das Northern India Institute of Technology is a private engineering college on Ayodhya Road, Lucknow, affiliated to AKTU.",
+  "about": "The institute was established in 1999 and was formerly known as NIEC. It is affiliated to Dr. A.P.J. Abdul Kalam Technical University, approved by AICTE and has NBA accreditation. It is in Sector II, Dr. Akhilesh Das Nagar, on Ayodhya Road.",
+  "established_year": "1999",
+  "address": "Sector II, Dr. Akhilesh Das Nagar, Ayodhya Road, Lucknow-226028, Uttar Pradesh, India",
+  "pincode": "226028",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE, NBA",
+  "official_website": "https://bbdniit.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"babu-banrasi-das-institute-of-technology-and-management-engg-and-tech": {
+  "city": "Lucknow",
+  "short_name": "BBDITM",
+  "description": "Babu Banarasi Das Institute of Technology and Management is a private engineering college on Ayodhya Road, Lucknow, affiliated to AKTU.",
+  "about": "The institute was established in 1998 under the Babu Banarasi Das Educational Society and was formerly called Babu Banarasi Das National Institute of Technology and Management. It is affiliated to Dr. A.P.J. Abdul Kalam Technical University (code 054) and approved by AICTE. It is in Sector I, Dr. Akhilesh Das Nagar.",
+  "established_year": "1998",
+  "address": "Sector I, Dr. Akhilesh Das Nagar, Ayodhya Road, Lucknow (UP)-226028, Uttar Pradesh, India",
+  "pincode": "226028",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://bbdnitm.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"babu-sunder-singh-institute-of-technology-and-management": {
+  "short_name": "BSSITM",
+  "description": "Babu Sunder Singh Institute of Technology and Management is a private engineering college in Lucknow district, affiliated to AKTU.",
+  "about": "The institute was established in 2010. It is affiliated to Dr. A.P.J. Abdul Kalam Technical University and approved by AICTE. It offers B.Tech, M.Tech and diploma courses in engineering.",
+  "established_year": "2010",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://bssitm.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"bansal-institute-of-engineering-and-tecnology": {
+  "city": "Lucknow",
+  "short_name": "BIET",
+  "description": "Bansal Institute of Engineering and Technology is a private engineering college on Sitapur Road (NH-24), Lucknow, affiliated to AKTU.",
+  "about": "The institute is managed by the Bansal Educational Trust, founded in 2007. It is affiliated to Dr. A.P.J. Abdul Kalam Technical University and approved by AICTE. It is on Sitapur Road behind Sewa Hospital, about 1 km from AKTU.",
+  "address": "NH-24, Sitapur Road, Behind Sewa Hospital, Lucknow, Uttar Pradesh 226021",
+  "pincode": "226021",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://www.bansaliet.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"central-institute-of-petrochemicals-engineering-and-technology-3": {
+  "city": "Lucknow",
+  "college_type": "GOVERNMENT",
+  "short_name": "CIPET",
+  "description": "CIPET: Institute of Petrochemicals Technology, Lucknow is a centre of the Central Institute of Petrochemicals Engineering and Technology in the Amausi industrial area near Lucknow airport.",
+  "about": "The Lucknow centre was established in 1986. It has offered B.Tech in plastics engineering since 2008-09 and in manufacturing technology since 2010-11, affiliated to Dr. A.P.J. Abdul Kalam Technical University. CIPET is under the Department of Chemicals and Petrochemicals, Government of India.",
+  "established_year": "1986",
+  "ownership": "PUBLIC",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://www.cipet.gov.in/centres/cipet-lucknow/introduction.php",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"centre-for-advanced-studies": {
+  "city": "Lucknow",
+  "short_name": "CAS",
+  "description": "The Centre for Advanced Studies is a postgraduate and research centre of AKTU on the university campus in Lucknow.",
+  "about": "AKTU set up the centre on 7 July 2017 with the backing of the Uttar Pradesh government, to support research. It offers M.Tech and PhD programmes in computer science, mechatronics, nanotechnology, manufacturing technology and automation, and energy science.",
+  "established_year": "2017",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://cas.res.in/",
+  "streams": "engineering"
+},
+"dr-m-c-saxena-college-of-engineering-and-technology": {
+  "city": "Lucknow",
+  "description": "Dr. M.C. Saxena College of Engineering and Technology is a private engineering college of the Dr. M.C. Saxena Group of Colleges on the Dubagga-IIM bypass, Lucknow.",
+  "about": "The college is approved by AICTE and affiliated to the state technical university at Lucknow (formerly UPTU, now AKTU). It offers B.Tech in civil, electronics and communication, and computer science engineering.",
+  "address": "171, Barawankala, Mall Road, Dubagga - IIM Bypass, Lucknow (U.P.) - 226101",
+  "pincode": "226101",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://www.mcsgoc.com/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"faculty-of-engineering-and-technology-university-of-lucknow": {
+  "city": "Lucknow",
+  "college_type": "STATE",
+  "short_name": "FoET",
+  "description": "The Faculty of Engineering and Technology is the engineering faculty of the University of Lucknow, at the university's second campus in Jankipuram Extension.",
+  "about": "The faculty was re-established in 2017 as one of the faculties of the University of Lucknow. It offers B.Tech in civil, computer science, computer science (AI), electrical, electronics and communication, and mechanical engineering. It also runs M.Tech programmes.",
+  "established_year": "2017",
+  "affiliated_to": "University of Lucknow",
+  "official_website": "https://www.lkouniv.ac.in/en/page/faculty-of-engineering-pages",
+  "streams": "engineering"
+},
+"gcrg-memorial-trust-s-group-of-institutions": {
+  "city": "Lucknow",
+  "description": "G.C.R.G. Group of Institutions is a private group on Chandrika Devi Road, Bakshi Ka Talab, Lucknow, whose engineering faculty is affiliated to AKTU.",
+  "about": "The group was established in 2008. Its engineering courses are affiliated to Dr. A.P.J. Abdul Kalam Technical University and approved by AICTE. The 50-acre campus also runs management and medical programmes and a hospital.",
+  "established_year": "2008",
+  "address": "Chandrika Devi Road, Bakshi Ka Talab, Lucknow",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://gcrg.edu.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+}
+}

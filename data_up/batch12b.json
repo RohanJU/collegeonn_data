@@ -1,0 +1,81 @@
+{
+"institute-of-engineering-and-technology-3": {
+  "city": "Jhansi",
+  "short_name": "IET",
+  "description": "The Institute of Engineering and Technology is the engineering institute of Bundelkhand University, Jhansi.",
+  "about": "IET is part of Bundelkhand University, which came into existence in 1975. The institute runs B.Tech programmes, with published syllabi for computer science, biotechnology and food technology. Its website is hosted on the university's domain.",
+  "affiliated_to": "Bundelkhand University, Jhansi",
+  "official_website": "https://tec.bujhansi.ac.in/",
+  "streams": "engineering"
+},
+"modern-college": {
+  "city": "Jhansi",
+  "description": "Modern College is an engineering college on Kanpur Road at Kochhabhawar, Jhansi.",
+  "about": "The college is on Kanpur Road at Kochhabhawar in Jhansi. It offers B.Tech and diploma engineering courses.",
+  "address": "Kanpur Road, Kochhabhawar, Jhansi 284128",
+  "pincode": "284128",
+  "official_website": "https://moderncollege.tech/",
+  "streams": "engineering"
+},
+"sr-group-of-institutions": {
+  "city": "Jhansi",
+  "short_name": "SRGI",
+  "description": "SR Group of Institutions is a private group of colleges in Jhansi whose College of Science and Engineering offers B.Tech programmes.",
+  "about": "The group was established in 2002 and is approved by AICTE. Its engineering programmes are affiliated to Dr. A.P.J. Abdul Kalam Technical University (formerly UPTU). The group runs colleges of science and engineering, pharmacy, engineering management and technology, professional studies, and a polytechnic.",
+  "established_year": "2002",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://srgi.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"amani-group-of-institutions": {
+  "city": "Amroha",
+  "description": "Amani Group of Institutions is a group of colleges on Bijnor Road in Amroha.",
+  "about": "The institution is located on Bijnor Road, Amroha. Its website describes it as the Amani Group of Institutions.",
+  "official_website": "https://www.amaniinstitution.co.in/",
+  "streams": "engineering"
+},
+"d-n-s-college-of-engineering-and-technology": {
+  "city": "Amroha",
+  "description": "DNS College of Engineering and Technology is a private engineering college in Amroha offering B.Tech and M.Tech programmes.",
+  "about": "The college offers B.Tech in electronics and communication, mechanical, civil, computer science, information technology, and electrical and electronics engineering. It also runs an M.Tech programme and other institutions on the same campus.",
+  "official_website": "https://dnscollege.in/",
+  "streams": "engineering"
+},
+"landmark-technical-campus": {
+  "city": "Amroha",
+  "description": "Landmark Technical Campus belongs to the Landmark Group of Institutions in Amroha, which offers B.Tech programmes affiliated to AKTU.",
+  "about": "The Landmark group is based at Didauli on the Delhi-Moradabad road near Amroha. Its B.Tech programmes are affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow. It offers programmes in engineering, IT and computer science.",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://www.landmarkgroups.co.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"maharaja-agrasen-college-of-engg-and-technology": {
+  "short_name": "MACET",
+  "description": "Maharaja Agrasen College of Engineering and Technology is a private college on NH-24 near Gajraula offering B.Tech, pharmacy, polytechnic and ITI courses.",
+  "about": "The Maharaja Agrasen group of institutions was established in 2009 and is run by the Capital Educational Society. The institute is approved by AICTE and affiliated to the state technical university at Lucknow (formerly UPTU, now AKTU). It is on the NH-24 Delhi road, about 11 km from Gajraula.",
+  "established_year": "2009",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://www.agrasencollege.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"rajkiya-engineering-college-kannauj": {
+  "city": "Kannauj",
+  "college_type": "GOVERNMENT",
+  "short_name": "REC Kannauj",
+  "description": "Rajkiya Engineering College, Kannauj is a government engineering college on Tirwa Road, Kannauj, affiliated to AKTU.",
+  "about": "The college was established by the Government of Uttar Pradesh in 2015. It is affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow. The campus is at Aher on Tirwa Road, Kannauj.",
+  "established_year": "2015",
+  "address": "Aher, Tirwa Road, Kannauj, Uttar Pradesh 209732",
+  "pincode": "209732",
+  "ownership": "PUBLIC",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://reck.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+}
+}

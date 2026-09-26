@@ -1,0 +1,104 @@
+{
+"allenhouse-institute-of-technology": {
+  "city": "Kanpur",
+  "description": "Allenhouse Institute of Technology is a private engineering college on Kulgaon Road at Rooma, Kanpur, affiliated to AKTU.",
+  "about": "The institute has been running since 2009 as part of the Allenhouse Group of Institutions. It is affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow (college code 505). It offers B.Tech along with MCA, MBA, BBA and BCA programmes.",
+  "established_year": "2009",
+  "address": "Plot No. 176 Kulgaon Road, Rooma, Kanpur, U.P. 208008",
+  "pincode": "208008",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://allenhouse.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"apollo-institute-of-technology": {
+  "description": "Apollo Institute of Technology is a private engineering college in Sarsaul block of Kanpur Nagar, affiliated to AKTU and approved by AICTE.",
+  "about": "The institute was founded in 2008 by the AIT-BD Charitable Educational Society. It is affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow (code 353) and approved by AICTE. Its 35-acre campus is on the Kanpur-Allahabad highway, and it offers B.Tech, MBA, BBA, BCA and polytechnic programmes.",
+  "established_year": "2008",
+  "address": "Vill. Sundhela, Block Sarsaul, Kanpur Nagar 209402",
+  "pincode": "209402",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://apolloit.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"axis-institute-of-technology-and-management": {
+  "city": "Kanpur",
+  "description": "Axis Institute of Technology and Management is part of Axis Colleges at Rooma, Kanpur.",
+  "about": "Axis Colleges at Rooma, Kanpur run engineering, business, architecture, fashion and pharmacy programmes. The institute of technology and management is the group's engineering college.",
+  "official_website": "https://axiscolleges.in/",
+  "streams": "engineering"
+},
+"chhatrapati-shahu-ji-maharaj-university": {
+  "city": "Kanpur",
+  "college_type": "STATE",
+  "short_name": "CSJMU",
+  "description": "Chhatrapati Shahu Ji Maharaj University, formerly Kanpur University, is a state university in Kanpur with an A++ NAAC grade whose campus includes a University Institute of Engineering and Technology.",
+  "about": "The university was established in 1966 as Kanpur University. It holds an A++ grade from NAAC. Its campus has a School of Engineering and Technology (UIET), which offers B.Tech and M.Tech programmes in several branches.",
+  "established_year": "1966",
+  "naac_grade": "A++",
+  "official_website": "https://csjmu.ac.in/",
+  "streams": "engineering"
+},
+"dr-ambedkar-institute-of-technology-for-divyangjan-u-p-kanpur": {
+  "city": "Kanpur",
+  "college_type": "GOVERNMENT",
+  "short_name": "AITD",
+  "description": "Dr. Ambedkar Institute of Technology for Divyangjan is a government institute at Awadhpuri, Kanpur, with a barrier-free campus designed for students with disabilities.",
+  "about": "The Government of Uttar Pradesh set up the institute in 1997 under the Persons with Disabilities Act, 1995. It runs diploma courses reserved for disabled students and five B.Tech courses in which 60 percent of seats are reserved for them. Its degree programmes are under Dr. A.P.J. Abdul Kalam Technical University, Lucknow.",
+  "established_year": "1997",
+  "ownership": "PUBLIC",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://aith.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"harcourt-butler-technical-university-kanpur": {
+  "city": "Kanpur",
+  "college_type": "STATE",
+  "short_name": "HBTU",
+  "description": "Harcourt Butler Technical University is a state technical university at Nawabganj, Kanpur, formerly the Harcourt Butler Technological Institute, with an A+ NAAC grade.",
+  "about": "The institution's foundation stone was laid in 1921, and it was named Harcourt Butler Technological Institute in 1926. It became a university under Uttar Pradesh Act No. 11 of 2016. It has an East Campus and a West Campus about 3 km apart and is accredited A+ by NAAC.",
+  "established_year": "1921",
+  "address": "Nawabganj, Kanpur 208002, U.P., India",
+  "pincode": "208002",
+  "naac_grade": "A+",
+  "official_website": "https://hbtu.ac.in/",
+  "streams": "engineering"
+},
+"indian-institute-of-technology-kanpur": {
+  "city": "Kanpur",
+  "college_type": "CENTRAL",
+  "short_name": "IIT Kanpur",
+  "description": "IIT Kanpur is one of the first-generation Indian Institutes of Technology, set up by the Government of India in 1959 at Kalyanpur, Kanpur.",
+  "about": "The institute was established in 1959 and first worked from the premises of the Harcourt Butler Technological Institute with 100 students. The Uttar Pradesh government gave land in 1960, and the institute moved to its present campus by March 1963. It combines teaching with fundamental and applied research.",
+  "established_year": "1959",
+  "address": "Kalyanpur, Kanpur, Uttar Pradesh 208016",
+  "pincode": "208016",
+  "ownership": "PUBLIC",
+  "official_website": "https://www.iitk.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-advanced"
+},
+"kanpur-institute-of-technology": {
+  "city": "Kanpur",
+  "short_name": "KIT",
+  "description": "Kanpur Institute of Technology is a private engineering college in the UPSIDC industrial area at Rooma, Kanpur, affiliated to AKTU.",
+  "about": "The institute started in 2004. It is approved by AICTE and affiliated to the state technical university at Lucknow (formerly UPTU, now AKTU) with college code 165. It is on the Kanpur-Allahabad highway, about 6 km from Ramadevi.",
+  "established_year": "2004",
+  "address": "A-1, UPSIDC, Industrial Area, Rooma, Kanpur-208001 (U.P.)",
+  "pincode": "208001",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://kit.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"krishna-institute-of-technology-351": {
+  "description": "Krishna Institute of Technology belongs to the Krishna Group of Institutions, Kanpur, which runs engineering programmes under AKTU norms.",
+  "about": "The group runs engineering departments in computer science, mechanical and civil engineering, set up as per AICTE and AKTU norms. It also offers pharmacy, management, computer applications and nursing. The campus covers 20 acres.",
+  "official_website": "https://kgikanpur.in/",
+  "streams": "engineering"
+}
+}
