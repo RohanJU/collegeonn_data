@@ -1,0 +1,28 @@
+{
+"veer-bahadur-singh-purvanchal-university": {
+  "city": "Jaunpur",
+  "college_type": "STATE",
+  "short_name": "VBSPU",
+  "description": "Veer Bahadur Singh Purvanchal University is a state university in Jaunpur, accredited by NAAC with an A+ grade, whose engineering institute began in 1997.",
+  "about": "The university was established on 2 October 1987 and is a state university of the Government of Uttar Pradesh. Its Uma Nath Singh Institute of Engineering and Technology started in 1997 with three departments. It holds a NAAC A+ grade.",
+  "established_year": "1987",
+  "ownership": "PUBLIC",
+  "naac_grade": "A+",
+  "official_website": "https://www.vbspu.ac.in/",
+  "streams": "engineering"
+},
+"bundelkhand-institute-of-engineering-and-technology-jhansi": {
+  "city": "Jhansi",
+  "college_type": "AUTONOMOUS",
+  "short_name": "BIET",
+  "description": "Bundelkhand Institute of Engineering and Technology is an autonomous engineering institute on Kanpur Road, Jhansi, affiliated to AKTU.",
+  "about": "The foundation stone was laid in 1986, and the institute began operating in 1988 as Bundelkhand Engineering College. It has been autonomous since 2011-12 under UGC. It is affiliated to Dr. A.P.J. Abdul Kalam Technical University for its B.Tech, M.Tech and MBA degrees.",
+  "established_year": "1988",
+  "address": "Kanpur Road, Jhansi, Uttar Pradesh 284128",
+  "pincode": "284128",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://bietjhs.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+}
+}
