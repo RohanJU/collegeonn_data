@@ -1,0 +1,117 @@
+{
+"modinagar-institute-of-technology": {
+  "city": "Modinagar",
+  "official_website": "http://www.miteducation.org/",
+  "streams": "engineering"
+},
+"nitra-technical-campus": {
+  "city": "Ghaziabad",
+  "short_name": "NTC",
+  "description": "NITRA Technical Campus is the degree-granting academic arm of the Northern India Textile Research Association, located in Raj Nagar, Ghaziabad.",
+  "about": "The campus belongs to the Northern India Textile Research Association (NITRA). It is approved by AICTE and affiliated to Dr. A.P.J. Abdul Kalam Technical University under college code 802. It offers B.Tech programmes, with a focus on textile technology and computer science.",
+  "address": "Sector-23, Raj Nagar, Ghaziabad, Uttar Pradesh 201002",
+  "pincode": "201002",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://nitra.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"r-d-engineering-college": {
+  "city": "Ghaziabad",
+  "short_name": "RDEC",
+  "description": "R.D. Engineering College is an AKTU-affiliated engineering college on the Delhi-Meerut road at Duhai, Ghaziabad.",
+  "about": "RDEC is located at the 9 km stone of NH-58 at Duhai. Its campus covers about 15 acres. It is affiliated to Dr. A.P.J. Abdul Kalam Technical University.",
+  "address": "9th KM Stone, NH-58, Delhi-Meerut Road, Duhai, Ghaziabad, Uttar Pradesh 201206",
+  "pincode": "201206",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://rdec.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"r-d-engineering-college-and-research-centre": {
+  "city": "Ghaziabad",
+  "short_name": "RDEC",
+  "description": "R.D. Engineering College is an AKTU-affiliated engineering college on the Delhi-Meerut road at Duhai, Ghaziabad.",
+  "about": "RDEC is located at the 9 km stone of NH-58 at Duhai. Its campus covers about 15 acres. It is affiliated to Dr. A.P.J. Abdul Kalam Technical University.",
+  "address": "9th KM Stone, NH-58, Delhi-Meerut Road, Duhai, Ghaziabad, Uttar Pradesh 201206",
+  "pincode": "201206",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://rdec.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"raj-kumar-goel-institue-of-technology": {
+  "city": "Ghaziabad",
+  "short_name": "RKGIT",
+  "description": "Raj Kumar Goel Institute of Technology is an AKTU-affiliated engineering college on the Delhi-Meerut road in Ghaziabad, with a NAAC A grade.",
+  "about": "RKGIT was established in 2000 with AICTE approval and affiliation to Dr. A.P.J. Abdul Kalam Technical University. It is run by the Raj Kumar Goel Educational Foundation, registered in 1999. It holds a NAAC A grade.",
+  "established_year": "2000",
+  "address": "5th KM Stone, Delhi-Meerut Road, Near Raj Nagar Extension Road, Ghaziabad, Uttar Pradesh 201003",
+  "pincode": "201003",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "naac_grade": "A",
+  "official_website": "https://rkgit.edu.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"raj-kumar-goel-institute-of-technology-and-management": {
+  "city": "Ghaziabad",
+  "short_name": "RKGITM",
+  "description": "Raj Kumar Goel Institute of Technology and Management is an AKTU-affiliated engineering college in Ghaziabad, originally set up as a women's institute.",
+  "about": "RKGITM was established in 2008 as Raj Kumar Goel Institute of Technology for Women and later became co-educational. It is affiliated to Dr. A.P.J. Abdul Kalam Technical University under college code 333. It is located in Ghaziabad.",
+  "established_year": "2008",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://www.rkgitm.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"sanskar-college-of-engineering-and-technology": {
+  "city": "Ghaziabad",
+  "short_name": "SCET",
+  "description": "Sanskar College of Engineering and Technology is the engineering college of the Sanskar Educational Group on a 20 acre campus in Ghaziabad.",
+  "about": "SCET was established in 2005. It offers a four-year B.Tech with an annual intake of 240, affiliated to Dr. A.P.J. Abdul Kalam Technical University and approved by AICTE. The Sanskar group's campus hosts more than 2,500 students.",
+  "established_year": "2005",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://sanskareducationalgroup.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"srm-institute-of-management-and-technology": {
+  "city": "Modinagar",
+  "description": "This is the Delhi-NCR campus of SRM Institute of Science and Technology on the Delhi-Meerut road at Modinagar, formerly SRM Institute of Management and Technology.",
+  "about": "The Delhi-NCR campus at Modinagar was established in 1997. It has more than 5,000 students in engineering, management and hotel management. It is located on the Delhi-Meerut road.",
+  "established_year": "1997",
+  "address": "Delhi-NCR Campus, Delhi-Meerut Road, Modinagar, Ghaziabad, Uttar Pradesh 201204",
+  "pincode": "201204",
+  "official_website": "https://www.srmup.in/",
+  "streams": "engineering"
+},
+"sunder-deep-group-of-institutions": {
+  "city": "Ghaziabad",
+  "description": "Sunder Deep Group of Institutions is a 40 acre campus at Dasna, Ghaziabad, whose engineering college is affiliated to AKTU.",
+  "about": "The campus is on NH-9 at Dasna. It offers engineering, management, pharmacy, architecture, law and hotel management. Its engineering college is affiliated to Dr. A.P.J. Abdul Kalam Technical University.",
+  "address": "NH-9, Delhi-Meerut Expressway, Dasna, Ghaziabad, Uttar Pradesh",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://www.sunderdeep.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"maa-pateshwari-devi-rajkiya-engineering-college-gonda": {
+  "city": "Gonda",
+  "college_type": "GOVERNMENT",
+  "description": "Maa Pateshwari Devi Rajkiya Engineering College is a Government of Uttar Pradesh engineering college on Utraula Road in Gonda, associated with AKTU.",
+  "about": "The college was established by the Government of Uttar Pradesh in 2023 as an associated institute of Dr. A.P.J. Abdul Kalam Technical University. It is approved by AICTE. It offers B.Tech in computer science, information technology, electronics and electrical engineering with 60 seats each.",
+  "established_year": "2023",
+  "address": "Utraula Road, Gonda, Uttar Pradesh 271002",
+  "pincode": "271002",
+  "ownership": "PUBLIC",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://recgonda.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+}
+}

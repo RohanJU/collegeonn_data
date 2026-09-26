@@ -1,13 +1,14 @@
 import csv, json, glob, os, sys
 BASE = os.path.dirname(os.path.abspath(__file__))
-SRC = os.path.join(BASE, "colleges-to-fill-2026-09-26.csv")
-OUT = os.path.join(BASE, "colleges-filled.csv")
+SRC = os.path.join(BASE, os.environ.get("SRC", "colleges-to-fill-2026-09-26.csv"))
+OUT = os.path.join(BASE, os.environ.get("OUT", "colleges-filled.csv"))
+DATA = os.environ.get("DATA", "data")
 FILL = ["city","college_type","short_name","description","about","established_year","address",
         "district","pincode","latitude","longitude","ownership","affiliated_to","approvals",
         "naac_grade","naac_score","nirf_rank","nirf_category","official_website","brochure_url",
         "streams","exams_accepted"]
 data = {}
-for f in sorted(glob.glob(os.path.join(BASE, "data", "batch*.json"))):
+for f in sorted(glob.glob(os.path.join(BASE, DATA, "batch*.json"))):
     data.update(json.load(open(f, encoding="utf-8")))
 with open(SRC, encoding="utf-8", newline="") as fh:
     rows = list(csv.reader(fh))

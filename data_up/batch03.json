@@ -1,0 +1,109 @@
+{
+"kali-charan-nigam-institute-of-technology": {
+  "city": "Banda",
+  "short_name": "KCNIT",
+  "description": "Kali Charan Nigam Institute of Technology is a private engineering college on Naraini Road in Banda, the headquarters of the Chitrakoot Dham division.",
+  "about": "KCNIT was established in 2002 under the aegis of the Banda Education Centre. It is approved by AICTE and affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow. It offers B.Tech and MBA degrees along with polytechnic diploma and ITI courses.",
+  "established_year": "2002",
+  "address": "Naraini Road, Banda, Uttar Pradesh 210001",
+  "pincode": "210001",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://kcnit.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"rajkiya-engineering-college-banda": {
+  "city": "Atarra",
+  "college_type": "GOVERNMENT",
+  "description": "Rajkiya Engineering College, Banda is a Government of Uttar Pradesh engineering college and a constituent institute of AKTU, with a residential campus at Atarra.",
+  "about": "The college was established by the Government of Uttar Pradesh in 2010 with electrical, mechanical and information technology branches of 60 seats each. It is a constituent institute of Dr. A.P.J. Abdul Kalam Technical University. It moved to its own fully residential campus at Atarra in July 2015.",
+  "established_year": "2010",
+  "address": "Atarra, Banda, Uttar Pradesh 210201",
+  "pincode": "210201",
+  "ownership": "PUBLIC",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://recbanda.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"gokaran-narvadeshwar-institute-of-technology-and-management": {
+  "short_name": "GNITM",
+  "description": "Gokaran Narvadeshwar Institute of Technology and Management is a professional institute at Tindola on the Lucknow-Dewa road in Barabanki district.",
+  "about": "GNITM was founded by the Gokaran Narvadeshwar Shiksha Samiti. It is located at the 12 km stone of the Lucknow-Dewa road at Tindola, on the outskirts of Lucknow.",
+  "address": "12 Km Stone, Lucknow-Dewa Road, Tindola, Barabanki, Uttar Pradesh",
+  "official_website": "http://gnitm.org.in/",
+  "streams": "engineering"
+},
+"jahangirabad-educational-trust-group-of-institutions": {
+  "city": "Jahangirabad",
+  "short_name": "JIT",
+  "description": "Jahangirabad Institute of Technology is a multi-disciplinary engineering and management campus inside the historic Jahangirabad Fort in Barabanki district.",
+  "about": "The institute was set up in 2001 by the Jahangirabad Educational Trust to advance technical and professional education. It is housed in the historic fort of Jahangirabad, about 40 km from Lucknow. AICTE has approved it as an integrated campus for engineering and management, and it offers B.Tech, pharmacy and diploma programmes.",
+  "established_year": "2001",
+  "address": "Jahangirabad Fort, Jahangirabad, Barabanki, Uttar Pradesh 225203",
+  "pincode": "225203",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://jit.edu.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"sagar-institute-of-technology-and-management": {
+  "city": "Barabanki",
+  "short_name": "SITM",
+  "description": "Sagar Institute of Technology and Management is a private engineering, pharmacy and management college on the Lucknow-Ayodhya highway in Barabanki.",
+  "about": "SITM is approved by AICTE and PCI and affiliated to Dr. A.P.J. Abdul Kalam Technical University and the state technical board. It offers B.Tech, BCA, BBA, MBA and pharmacy programmes. Its campus is at the 6th km milestone on the Lucknow-Ayodhya highway.",
+  "address": "6th Km Milestone, Lucknow-Ayodhya Highway, Barabanki, Uttar Pradesh",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE, PCI",
+  "official_website": "https://www.sagar.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"seth-vishambhar-nath-institute-of-engineering-and-technology": {
+  "city": "Safedabad",
+  "short_name": "SVNIET",
+  "description": "Seth Vishambhar Nath Institute of Engineering and Technology is an AKTU-affiliated engineering college of the Seth Vishambhar Nath group at Safedabad, Barabanki.",
+  "about": "The Seth Vishambhar Nath Group of Educational Institutions was founded by Vinay Rastogi in 2008. The engineering institute is affiliated to Dr. A.P.J. Abdul Kalam Technical University under code 345 and is approved by AICTE. The campus is at Safedabad on the Lucknow-Barabanki highway.",
+  "established_year": "2008",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://svn.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"a-n-a-college-of-engineering-and-management-studies": {
+  "city": "Bareilly",
+  "description": "ANA College of Engineering and Management Studies is a private AKTU-affiliated college on the Bareilly-Delhi highway, part of the ANA Group of Institutions.",
+  "about": "The college was set up under the Late Amarnath Anand Trust. It is affiliated to Dr. A.P.J. Abdul Kalam Technical University and approved by AICTE. The ANA group also runs management, pharmacy, nursing and ayurveda programmes.",
+  "address": "13.5 Km Bareilly-Delhi Highway (NH-9), Near Rubber Factory, Agras Road, Bareilly, Uttar Pradesh",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://anacollege.org/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"institute-of-engineering-and-technology-mjp-rohilkhand-university": {
+  "city": "Bareilly",
+  "short_name": "IET",
+  "description": "The Institute of Engineering and Technology is the engineering faculty of Mahatma Jyotiba Phule Rohilkhand University on the Pilibhit bypass road in Bareilly.",
+  "about": "IET was set up in 1995 at MJP Rohilkhand University. It is approved by AICTE. It runs B.Tech programmes on the university campus in Bareilly.",
+  "established_year": "1995",
+  "address": "MJP Rohilkhand University, Pilibhit By Pass Road, Bareilly, Uttar Pradesh 243006",
+  "pincode": "243006",
+  "affiliated_to": "Mahatma Jyotiba Phule Rohilkhand University, Bareilly",
+  "approvals": "AICTE",
+  "official_website": "https://mjpru.ac.in/dean_engineeringTechnologies.aspx",
+  "streams": "engineering"
+},
+"lotus-institute-of-management": {
+  "city": "Bareilly",
+  "description": "Lotus Institute of Management is part of the Lotus Group of Institutions on the Bareilly-Lucknow road, offering management, pharmacy, science, commerce and technical programmes.",
+  "about": "The institution is affiliated to Mahatma Jyotiba Phule Rohilkhand University, Bareilly, and to the Board of Technical Education, Lucknow. Its campus is at the 16th km of NH-24 on the Bareilly-Lucknow road.",
+  "address": "16th KM, NH-24, Bareilly-Lucknow Road, Bareilly, Uttar Pradesh",
+  "affiliated_to": "Mahatma Jyotiba Phule Rohilkhand University, Bareilly",
+  "official_website": "https://lotusinstitute.in/",
+  "streams": "engineering"
+}
+}

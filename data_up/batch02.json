@@ -1,0 +1,112 @@
+{
+"shivdan-singh-institute-of-technology-and-management": {
+  "city": "Aligarh",
+  "short_name": "SSITM",
+  "description": "Shivdan Singh Institute of Technology and Management is an AKTU-affiliated engineering college in Aligarh offering B.Tech, M.Tech, management, computer application and pharmacy programmes.",
+  "about": "SSITM is affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow, under college code 007. It runs undergraduate and postgraduate engineering programmes alongside MBA, MCA, BCA, BBA, B.Pharm and diploma courses. The campus is in Aligarh.",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://ssitm.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"ssld-varshney-engineering-college-aligarh": {
+  "city": "Aligarh",
+  "description": "SSLD Varshney Engineering College is a private college on the Aligarh-Kanpur G.T. Road offering B.Tech along with management, law and pharmacy programmes.",
+  "about": "The college is on NH-91 at the 13 km stone of the Aligarh-Kanpur G.T. Road. Its engineering programmes are affiliated to Dr. A.P.J. Abdul Kalam Technical University. Its programmes carry AICTE approval, and the campus also offers management, law, pharmacy and vocational courses.",
+  "address": "13 KM Stone, Aligarh-Kanpur G.T. Road, NH 91, Aligarh, Uttar Pradesh 202001",
+  "pincode": "202001",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://ssldv.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"vision-institute-of-technology-2": {
+  "city": "Aligarh",
+  "description": "Vision Institute of Technology, Aligarh is an engineering college of the Vision Group at Shahpur Madrak on the Aligarh-Agra highway.",
+  "about": "The institute belongs to the Vision Group of Institutions, Aligarh. It is affiliated to Dr. A.P.J. Abdul Kalam Technical University under code 524 for degree courses and to the state technical board for diplomas. Its campus is at Shahpur Madrak on the Aligarh-Agra highway.",
+  "address": "Shahpur Madrak, Aligarh-Agra Highway, Aligarh, Uttar Pradesh",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://vita.vision.org.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"vivekananda-college-of-technology-and-management-aligarh": {
+  "city": "Aligarh",
+  "short_name": "VCTM",
+  "description": "Vivekananda College of Technology and Management is an AICTE-approved, AKTU-affiliated engineering college on the Mathura bypass in Aligarh.",
+  "about": "VCTM is run by the NL Educational Society and holds AKTU college code 340. It is approved by AICTE and affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow. The campus is near the Khair Road crossing on the Mathura bypass, about 3 km from Aligarh city.",
+  "address": "Mathura Bypass, Near Khair Road, Aligarh, Uttar Pradesh 202002",
+  "pincode": "202002",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://vctm.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"zakir-husain-college-of-engineering-and-technology": {
+  "city": "Aligarh",
+  "short_name": "ZHCET",
+  "description": "Zakir Husain College of Engineering and Technology is the engineering college of Aligarh Muslim University, founded in 1935.",
+  "about": "ZHCET was established in 1935 as a constituent college of Aligarh Muslim University. It sits on the AMU campus in Aligarh. The college occupies about 113 acres.",
+  "established_year": "1935",
+  "address": "Aligarh Muslim University, Aligarh, Uttar Pradesh 202002",
+  "pincode": "202002",
+  "affiliated_to": "Aligarh Muslim University",
+  "official_website": "https://www.amu.ac.in/colleges/zakir-husain-college-of-engineering-and-technology",
+  "streams": "engineering"
+},
+"rajkiya-engineering-college-ambedkar-nagar": {
+  "college_type": "GOVERNMENT",
+  "description": "Rajkiya Engineering College, Ambedkar Nagar is a Government of Uttar Pradesh engineering college on the Akbarpur-Tanda road.",
+  "about": "The college was established by the Government of Uttar Pradesh under the special component plan in 2010. It began B.Tech programmes in information technology, electrical and civil engineering in 2010-11 with 60 seats each. Its campus is on the Akbarpur-Tanda road at Katariya Yakoobpur.",
+  "established_year": "2010",
+  "address": "Akbarpur-Tanda Road, In Front of Hawai Patti, Katariya Yakoobpur, Ambedkar Nagar, Uttar Pradesh 224122",
+  "pincode": "224122",
+  "ownership": "PUBLIC",
+  "official_website": "https://recabn.ac.in/",
+  "streams": "engineering"
+},
+"institute-of-engineering-and-technology-5": {
+  "city": "Ayodhya",
+  "short_name": "IET",
+  "description": "The Institute of Engineering and Technology is the engineering institute of Dr. Rammanohar Lohia Avadh University, Ayodhya.",
+  "about": "IET was established in April 2000 at Dr. Rammanohar Lohia Avadh University. It started in 2000-01 with B.Tech in information technology and computer science plus an MCA, and later added electronics and mechanical engineering. It now has seven departments and operates from a building on the university's satellite campus.",
+  "established_year": "2000",
+  "affiliated_to": "Dr. Rammanohar Lohia Avadh University, Ayodhya",
+  "official_website": "https://www.rmlau.ac.in/new/FacultyofEngineering.aspx",
+  "streams": "engineering"
+},
+"baijnath-ramnaresh-college-of-technology": {
+  "description": "Baijnath Ramnaresh College of Technology is a polytechnic at Telhuwan Chakawali near Chiraiyakot in Azamgarh district, offering diploma engineering courses.",
+  "about": "The institute is recognised by the Board of Technical Education, Uttar Pradesh, and by AICTE. It offers diploma programmes in engineering and technology. Its campus is at Telhuwan Chakawali in Azamgarh district.",
+  "address": "Telhuwan Chakawali, Chiraiyakot, Azamgarh, Uttar Pradesh",
+  "approvals": "AICTE",
+  "official_website": "https://www.brct.in/",
+  "streams": "engineering"
+},
+"maharaja-suhel-dev-state-university-azamgarh": {
+  "city": "Azamgarh",
+  "college_type": "STATE",
+  "description": "Maharaja Suhel Dev State University is a state university in Azamgarh, created in 2019, to which colleges of Azamgarh and Mau districts are affiliated.",
+  "about": "The university was established by a Government of Uttar Pradesh gazette notification dated 5 August 2019 under the UP State Universities Act, 1973. Colleges in Azamgarh and Mau districts are affiliated to it. It offers undergraduate and postgraduate courses, including B.Tech.",
+  "established_year": "2019",
+  "ownership": "PUBLIC",
+  "streams": "engineering"
+},
+"rajkiya-engineering-college-azamgarh-formerly-manyawar-kanshiram-engineering-college-of-in": {
+  "city": "Azamgarh",
+  "college_type": "GOVERNMENT",
+  "description": "Rajkiya Engineering College, Azamgarh is a Government of Uttar Pradesh engineering college and a constituent college of AKTU, located at Akbalpur near Devgaon.",
+  "about": "The college was set up by the Government of Uttar Pradesh and was earlier known as Manyawar Kanshiram Engineering College of Information Technology. It started B.Tech programmes in information technology, mechanical and civil engineering in 2010-11. It is approved by AICTE and is a constituent college of Dr. A.P.J. Abdul Kalam Technical University.",
+  "established_year": "2010",
+  "address": "Village Akbalpur, Post Devgaon, Azamgarh, Uttar Pradesh 276201",
+  "pincode": "276201",
+  "ownership": "PUBLIC",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://gecazamgarh.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+}
+}
