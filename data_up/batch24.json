@@ -1,0 +1,91 @@
+{
+ "shri-vishwanath-college-of-technology": {
+  "description": "Shri Vishwanath College of Technology is a polytechnic of the Shri Vishwanath Group of Institutions at Kalan in Sultanpur district.",
+  "about": "The college is part of the Shri Vishwanath group at Kalan, on NH-135A near the border of Sultanpur, Azamgarh, Jaunpur and Ambedkar Nagar districts. It offers diploma programmes in electrical, mechanical, civil, computer science, and electronics and communication engineering.",
+  "official_website": "https://svncot.ac.in/",
+  "streams": "engineering"
+ },
+ "dr-virendra-swarup-memorial-trust-group-of-institution": {
+  "description": "Dr. Virendra Swarup Memorial Trust Group of Institutions is a private engineering college in Unnao district, listed by AKTU as an affiliated college.",
+  "about": "The college is listed on AKTU's Know Your College portal as an affiliated college in Unnao. Its own website could not be confirmed.",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+ },
+ "institute-of-professional-studies-and-research-ipsr": {
+  "short_name": "IPSR",
+  "description": "The Institute of Professional Studies and Research is part of the IPSR Group of Institutions in Unnao, known mainly for pharmacy and management programmes.",
+  "about": "IPSR was established in 2006. Its website describes pharmacy and management programmes; no engineering programme could be confirmed.",
+  "established_year": "2006",
+  "official_website": "https://www.ipsr.in/"
+ },
+ "sunrise-institute-of-engineering-technology-and-management": {
+  "city": "Unnao",
+  "short_name": "SIETM",
+  "description": "Sunrise Institute of Engineering Technology and Management is a private engineering college on Achalganj Road, Unnao, affiliated to AKTU.",
+  "about": "The institute is affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow and its courses are approved by AICTE. It offers B.Tech in computer science, mechanical, electrical and civil engineering, plus diploma and B.Voc courses.",
+  "address": "Korari Kalan, Achalganj Road, UNNAO 209801",
+  "pincode": "209801",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://sietm.com/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+ },
+ "ashoka-institute-of-technology-and-management": {
+  "city": "Varanasi",
+  "short_name": "AITM",
+  "description": "Ashoka Institute of Technology and Management is a private engineering college in Varanasi, listed by AKTU as an affiliated college.",
+  "about": "The institute is listed on AKTU's Know Your College portal as an affiliated college. It offers B.Tech and other programmes in Varanasi.",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://ashokainstitute.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+ },
+ "indian-institute-of-handloom-technology-varanasi": {
+  "city": "Varanasi",
+  "short_name": "IIHT Varanasi",
+  "description": "The Indian Institute of Handloom Technology, Varanasi is a textile institute at Chowkaghat that started a B.Tech in handloom and textile technology in 2021-22.",
+  "about": "The institute began in 1956 as the Central Weaving Institute and took its present name in 1976. It started a B.Tech in handloom and textile technology from 2021-22, approved by AICTE and affiliated to Dr. A.P.J. Abdul Kalam Technical University. It also runs diploma and post-diploma courses.",
+  "established_year": "1956",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://www.iihtvaranasi.edu.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+ },
+ "indian-institute-of-technology-bhu-varanasi": {
+  "city": "Varanasi",
+  "college_type": "CENTRAL",
+  "short_name": "IIT (BHU)",
+  "description": "IIT (BHU) Varanasi is an Indian Institute of Technology on the Banaras Hindu University campus, whose engineering education dates back to 1919.",
+  "about": "Engineering teaching at BHU began in 1919 with the Banaras Engineering College. In 1968 three BHU engineering colleges merged to form the Institute of Technology (IT-BHU). It became IIT (BHU) Varanasi on 29 June 2012 by an Act of Parliament.",
+  "established_year": "1919",
+  "ownership": "PUBLIC",
+  "official_website": "https://iitbhu.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-advanced"
+ },
+ "kashi-institute-of-technology": {
+  "short_name": "KIT",
+  "description": "Kashi Institute of Technology is a private engineering college on the Varanasi-Allahabad highway at Mirzamurad, affiliated to AKTU.",
+  "about": "KIT was established in 2008 under the Jain Education Society. It is approved by AICTE and affiliated to Dr. A.P.J. Abdul Kalam Technical University. It offers engineering, management and applied science programmes.",
+  "established_year": "2008",
+  "address": "Varanasi-Allahabad Highway (NH-2), Mirzamurad, Varanasi, UP 221307",
+  "pincode": "221307",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://www.kashiit.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+ },
+ "saraswati-higher-education-and-technical-college-of-engineering": {
+  "short_name": "SHEAT",
+  "description": "Saraswati Higher Education and Technical College of Engineering is a private engineering college of the SHEAT group in Varanasi district, affiliated to AKTU.",
+  "about": "The college is part of the SHEAT Group of Institutions, which states AKTU and PCI approvals. It is listed on AKTU's Know Your College portal as an affiliated college.",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://sheatcollege.com/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+ }
+}

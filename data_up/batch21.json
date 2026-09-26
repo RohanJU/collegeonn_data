@@ -1,0 +1,107 @@
+{
+"samrat-ashok-rajkiya-engineering-college-mirzapur": {
+  "city": "Mirzapur",
+  "college_type": "GOVERNMENT",
+  "short_name": "REC Mirzapur",
+  "description": "Samrat Ashok Rajkiya Engineering College is a government engineering college in Mirzapur.",
+  "about": "The college is one of Uttar Pradesh's Rajkiya (government) engineering colleges and is located in Mirzapur. It runs B.Tech programmes, with first-year admission and hostel notices published on its website.",
+  "official_website": "https://www.recmirza.ac.in/",
+  "streams": "engineering"
+},
+"kothiwal-institute-of-technology-and-professional-studies": {
+  "city": "Moradabad",
+  "short_name": "KITPS",
+  "description": "Kothiwal Institute of Technology and Professional Studies is a private engineering college in Moradabad, managed by the KCM Educational Society.",
+  "about": "The institute was established in 2009 and is run by the KCM Educational Society, which dates from 1979. It is affiliated to Dr. A.P.J. Abdul Kalam Technical University (formerly UPTU) and follows AICTE norms. It offers B.Tech programmes.",
+  "established_year": "2009",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://www.kothiwalinstitutetechnology.com/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"moradabad-institute-of-technology": {
+  "city": "Moradabad",
+  "short_name": "MIT",
+  "description": "Moradabad Institute of Technology is a private engineering college in Moradabad, affiliated to AKTU and approved by AICTE.",
+  "about": "The MIT group's colleges are affiliated to Dr. A.P.J. Abdul Kalam Technical University (formerly UPTU) and approved by AICTE. The institute offers engineering and management programmes in Moradabad.",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://www.mitmoradabad.edu.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"teerthanker-mahaveer-university-college-of-engineering": {
+  "city": "Moradabad",
+  "short_name": "TMU",
+  "description": "The College of Engineering is the engineering faculty of Teerthanker Mahaveer University, a private university on NH-9 in Moradabad.",
+  "about": "The faculty offers AICTE-approved B.Tech, M.Tech and PhD programmes in computer science, mechanical, civil and electronics engineering. Its B.Tech in computer science and engineering is NBA-accredited. The university is about 144 km from New Delhi on National Highway 9.",
+  "affiliated_to": "Teerthanker Mahaveer University, Moradabad",
+  "approvals": "AICTE, NBA",
+  "official_website": "https://www.tmu.ac.in/faculty-of-engineering",
+  "streams": "engineering"
+},
+"bhagwant-institute-of-technology-2": {
+  "short_name": "BIT",
+  "description": "Bhagwant Institute of Technology is a private engineering college of the Bhagwant Group of Institutions on the Bijnor-Delhi highway in Muzaffarnagar district.",
+  "about": "The institute is at Bhagwantpuram, on the 17th milestone of the Bijnor-Delhi highway. It is listed on AKTU's Know Your College portal as an affiliated college. It offers B.Tech and M.Tech programmes.",
+  "address": "Bhagwantpuram, 17th Mile Stone, Bijnor- Delhi Highway, Distt. Muzaffarnagar-251315, Uttar Pradesh, India",
+  "pincode": "251315",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://www.bhagwantgroup.com/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"s-d-college-of-engg-and-tech": {
+  "city": "Muzaffarnagar",
+  "short_name": "SDCET",
+  "description": "S.D. College of Engineering and Technology is a private engineering college in Muzaffarnagar, affiliated to AKTU.",
+  "about": "The college was established in 1997 by the S.D. College Association. It is affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow and approved by AICTE. It offers B.Tech programmes.",
+  "established_year": "1997",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://www.sdcetmzn.org/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"shri-ram-group-of-colleges": {
+  "city": "Muzaffarnagar",
+  "short_name": "SRGC",
+  "description": "Shri Ram Group of Colleges is a private group of colleges in Muzaffarnagar that includes an engineering college.",
+  "about": "The group runs professional programmes in Muzaffarnagar, including B.Tech. Its website is srgcmzn.com.",
+  "official_website": "https://srgcmzn.com/",
+  "streams": "engineering"
+},
+"bharat-ratna-babasaheb-bhimrao-ambedkar-rajkiya-engineering-college-pratapgarh": {
+  "city": "Pratapgarh",
+  "college_type": "GOVERNMENT",
+  "short_name": "REC Pratapgarh",
+  "description": "Bharat Ratna Babasaheb Bhimrao Ambedkar Rajkiya Engineering College is a state-funded government engineering college in Pratapgarh, associated with AKTU.",
+  "about": "The college began academic work in the 2023-24 session as a state-funded government institution associated with Dr. A.P.J. Abdul Kalam Technical University, Lucknow. It moved to its permanent campus from 1 August 2025. It offers B.Tech in computer science, electrical, civil and mechanical engineering.",
+  "established_year": "2023",
+  "ownership": "PUBLIC",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://recp.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"b-b-s-college-of-engineering-and-technology": {
+  "city": "Prayagraj",
+  "short_name": "BBS",
+  "description": "B.B.S. College of Engineering and Technology is a private engineering college at Phaphamau, Prayagraj, affiliated to AKTU.",
+  "about": "The college was established in 2002. It is affiliated to Dr. A.P.J. Abdul Kalam Technical University and approved by AICTE. It offers B.Tech, M.Tech, MCA and MBA programmes.",
+  "established_year": "2002",
+  "address": "Phaphamau, Prayagraj-211013",
+  "pincode": "211013",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://bbs.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+},
+"hmfa-memorial-institute-of-engg-and-tech": {
+  "description": "HMFA Memorial Institute of Engineering and Technology is a private engineering college of the HMFA Group of Institutions at Handia, Prayagraj.",
+  "about": "The institute is part of the HMFA group at Handia in Prayagraj district, which also runs a polytechnic. It offers engineering programmes.",
+  "official_website": "https://hmfamiet.in/",
+  "streams": "engineering"
+}
+}

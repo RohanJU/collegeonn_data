@@ -1,0 +1,99 @@
+{
+ "apex-institute-of-technology": {
+  "description": "Apex Institute of Technology is the engineering college of the Apex Group of Institutions in Rampur district.",
+  "about": "The institute belongs to the Apex Group of Institutions. It offers engineering degree programmes along with management and diploma courses.",
+  "official_website": "https://www.apex.ac.in/",
+  "streams": "engineering"
+ },
+ "dev-bhoomi-group-of-institutions": {
+  "short_name": "DBGI",
+  "description": "Dev Bhoomi Group of Institutions is a private engineering college in Saharanpur, listed by AKTU as an affiliated college.",
+  "about": "The group is listed on AKTU's Know Your College portal as an affiliated college. It offers engineering, management and computer application programmes in Saharanpur.",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "official_website": "https://dbgisre.edu.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+ },
+ "indraprastha-institute-of-management-and-technology": {
+  "short_name": "IIMT",
+  "description": "Indraprastha Institute of Management and Technology is a private college in Saharanpur offering B.Tech, polytechnic and degree programmes.",
+  "about": "The institute offers B.Tech in computer science, AI and ML, civil, mechanical and electrical engineering, along with polytechnic, education and general degree programmes.",
+  "official_website": "https://iimt.org.in/",
+  "streams": "engineering"
+ },
+ "indian-institute-of-carpet-technology": {
+  "city": "Bhadohi",
+  "college_type": "GOVERNMENT",
+  "short_name": "IICT",
+  "description": "The Indian Institute of Carpet Technology is an institute set up by the Ministry of Textiles, Government of India, on Chauri Road, Bhadohi.",
+  "about": "The Ministry of Textiles set up IICT in 1998 as a registered society, and it began functioning in 2001 with a B.Tech programme. It runs a four-year B.Tech in carpet and textile technology, affiliated to Dr. A.P.J. Abdul Kalam Technical University and approved by AICTE. The campus is about 45 km from Varanasi.",
+  "established_year": "1998",
+  "address": "Chauri Road, Bhadohi, Uttar Pradesh - 221401, India",
+  "pincode": "221401",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://www.iict.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+ },
+ "sitapur-shiksha-sansthan-group-of-institutions": {
+  "short_name": "SSSGI",
+  "description": "Sitapur Shiksha Sansthan Group of Institutions is a private group of colleges in Sitapur offering engineering, pharmacy, polytechnic and management courses.",
+  "about": "The group runs engineering, pharmacy, polytechnic, commerce, computer application and management programmes in Sitapur.",
+  "official_website": "https://sitapurshikshasansthangi.org.in/",
+  "streams": "engineering"
+ },
+ "rajkiya-engineering-college-sonbhadra": {
+  "city": "Churk",
+  "college_type": "GOVERNMENT",
+  "short_name": "REC Sonbhadra",
+  "description": "Rajkiya Engineering College, Sonbhadra is a government engineering college at Churk in Sonbhadra district, affiliated to AKTU.",
+  "about": "The college is a government institution established in 2015. It is at Churk in Sonbhadra district and is affiliated to Dr. A.P.J. Abdul Kalam Technical University. It runs B.Tech programmes approved by AICTE.",
+  "established_year": "2015",
+  "address": "Churk, Sonbhadra, Uttar Pradesh, 231206",
+  "pincode": "231206",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://www.recsonbhadra.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+ },
+ "kamla-nehru-institute-of-physical-and-social-sciences-faridipur-campus-sultanpur": {
+  "city": "Sultanpur",
+  "short_name": "KNIPSS",
+  "description": "The KNIPSS Engineering Institute is the engineering wing of the Kamla Nehru Institute of Physical and Social Sciences at Faridipur, Sultanpur.",
+  "about": "The engineering institute is approved by AICTE and affiliated to Dr. A.P.J. Abdul Kalam Technical University and the Board of Technical Education, Lucknow. It is part of the Kamla Nehru group of institutions and is located at Faridipur, Sultanpur.",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://www.knipssengg.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+ },
+ "kamla-nehru-institute-of-technology-sultanpur": {
+  "city": "Sultanpur",
+  "college_type": "AUTONOMOUS",
+  "short_name": "KNIT",
+  "description": "Kamla Nehru Institute of Technology is an autonomous government engineering institute in Sultanpur, affiliated to AKTU.",
+  "about": "KNIT started in 1976 as the Faculty of Technology of the Kamla Nehru Memorial Trust and became a separate society under its present name in 1983. It is now an autonomous government engineering institute recognised under sections 2(f) and 12B of the UGC Act. It is affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow.",
+  "established_year": "1976",
+  "address": "Sultanpur-228 118, (U.P.), India",
+  "pincode": "228118",
+  "ownership": "PUBLIC",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "UGC",
+  "official_website": "https://knit.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+ },
+ "rajarshi-rananjay-sinh-institute-of-management-and-technology": {
+  "short_name": "RRSIMT",
+  "description": "Rajarshi Rananjay Sinh Institute of Management and Technology is a private engineering college at Amethi, affiliated to AKTU.",
+  "about": "RRSIMT was established in 2008. It is approved by AICTE and affiliated to Dr. A.P.J. Abdul Kalam Technical University. It offers B.Tech in civil, computer science, IT, mechanical, electronics and electrical engineering, and an MBA.",
+  "established_year": "2008",
+  "affiliated_to": "Dr. A.P.J. Abdul Kalam Technical University, Lucknow",
+  "approvals": "AICTE",
+  "official_website": "https://www.rrsimt.ac.in/",
+  "streams": "engineering",
+  "exams_accepted": "jee-main"
+ }
+}
